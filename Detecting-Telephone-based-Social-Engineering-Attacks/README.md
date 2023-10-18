@@ -8,8 +8,10 @@ It's aimed at exploring various ways to detect **Scam Signatures** about transfo
   * [Clustering Techniques](#clustering-techniques)
   * [Classification Models](#classification-models)
   * [Setup](#setup)
-  * [Usage](#usage)
-  * [Hardware requirements](#hardware-requirements)
+  * [Todos](#todos)
+  * [Acknowledgements](#acknowledgements)
+  * [Citation](#citation)
+  * [Connect with me](#connect-with-me)
 
 ## What-are-Telephone-based-Social-Engineering-attacks
 
@@ -106,144 +108,14 @@ Let's get this thing running! Follow the next steps:
 1. `git clone https://github.com/abideenml/ResearchProjects`
 2. Navigate into project directory `cd path_to_repo` and then move to  `Detecting-Telephone-based-Social-Engineering-Attacks` folder.
 3. Create a new venv environment and run `pip install -r requirements.txt`
+4. Run the `DocToVec_KMeans_+_EM_CLustering_Classifications_+_DBSCAN.ipynb` and `Universal_Vector_Encoding_KMeans_+_EM_+_DBSCAN_Clustering_Classifications.ipynb` file.
 
-That's it! It should work out-of-the-box executing environment.yml file which deals with dependencies. <br/>
-It may take a while as I'm automatically downloading SpaCy's statistical models for English and German.
-
------
-
-PyTorch pip package will come bundled with some version of CUDA/cuDNN with it,
-but it is highly recommended that you install a system-wide CUDA beforehand, mostly because of the GPU drivers. 
-I also recommend using Miniconda installer as a way to get conda on your system.
-Follow through points 1 and 2 of [this setup](https://github.com/Petlja/PSIML/blob/master/docs/MachineSetup.md)
-and use the most up-to-date versions of Miniconda and CUDA/cuDNN for your system.
-
-## Usage
-
-#### Option 1: Jupyter Notebook
-
-Just run `jupyter notebook` from you Anaconda console and it will open the session in your default browser. <br/>
-Open `The Annotated Transformer ++.ipynb` and you're ready to play! <br/>
-
----
-
-**Note:** if you get `DLL load failed while importing win32api: The specified module could not be found` <br/>
-Just do `pip uninstall pywin32` and then either `pip install pywin32` or `conda install pywin32` [should fix it](https://github.com/jupyter/notebook/issues/4980)!
-
-#### Option 2: Use your IDE of choice
-
-You just need to link the Python environment you created in the [setup](#setup) section.
-
-### Training
-
-To run the training start the `training_script.py`, there is a couple of settings you will want to specify:
-* `--batch_size` - this is important to set to a maximum value that won't give you CUDA out of memory
-* `--dataset_name` - Pick between `IWSLT` and `WMT14` (WMT14 is not advisable [until I add](#todos) multi-GPU support)
-* `--language_direction` - Pick between `E2G` and `G2E`
-
-So an example run (from the console) would look like this: <br/>
-`python training_script.py --batch_size 1500 --dataset_name IWSLT --language_direction G2E`
-
-The code is well commented so you can (hopefully) understand how the training itself works. <br/>
-
-The script will:
-* Dump checkpoint *.pth models into `models/checkpoints/`
-* Dump the final *.pth model into `models/binaries/`
-* Download IWSLT/WMT-14 (the first time you run it and place it under `data/`)
-* Dump [tensorboard data](#evaluating-nmt-models) into `runs/`, just run `tensorboard --logdir=runs` from your Anaconda
-* Periodically write some training metadata to the console
-
-*Note: data loading is slow in torch text, and so I've implemented a custom wrapper which adds the caching mechanisms
-and makes things ~30x faster! (it'll be slow the first time you run stuff)*
-
-### Inference (Translating)
-
-The second part is all about playing with the models and seeing how they translate! <br/>
-To get some translations start the `translation_script.py`, there is a couple of settings you'll want to set:
-* `--source_sentence` - depending on the model you specify this should either be English/German sentence
-* `--model_name` - one of the pretrained model names: `iwslt_e2g`, `iwslt_g2e` or your model(*)
-* `--dataset_name` - keep this in sync with the model, `IWSLT` if the model was trained on IWSLT
-* `--language_direction` - keep in sync, `E2G` if the model was trained to translate from English to German
-
-(*) Note: after you train your model it'll get dumped into `models/binaries` see what it's name is and specify it via
-the `--model_name` parameter if you want to play with it for translation purpose. If you specify some of the pretrained
-models they'll **automatically get downloaded** the first time you run the translation script.
-
-I'll link IWSLT pretrained model links here as well: [English to German](https://www.dropbox.com/s/a6pfo6t9m2dh1jq/iwslt_e2g.pth?dl=1) and [German to English.](https://www.dropbox.com/s/dgcd4xhwig7ygqd/iwslt_g2e.pth?dl=1)
-
-That's it you can also visualize the attention check out [this section.](#visualizing-attention) for more info.
-
-### Evaluating NMT models
-
-I tracked 3 curves while training:
-* training loss (KL divergence, batchmean)
-* validation loss (KL divergence, batchmean)
-* BLEU-4 
-
-[BLEU is an n-gram based metric](https://www.aclweb.org/anthology/P02-1040.pdf) for quantitatively evaluating the quality of machine translation models. <br/>
-I used the BLEU-4 metric provided by the awesome **nltk** Python module.
-
-Current results, models were trained for 20 epochs (DE stands for Deutch i.e. German in German :nerd_face:):
-
-| Model | BLEU score | Dataset |
-| --- | --- | --- |
-| [Baseline transformer (EN-DE)](https://www.dropbox.com/s/a6pfo6t9m2dh1jq/iwslt_e2g.pth?dl=1) | **27.8** | IWSLT val |
-| [Baseline transformer (DE-EN)](https://www.dropbox.com/s/dgcd4xhwig7ygqd/iwslt_g2e.pth?dl=1) | **33.2** | IWSLT val |
-| Baseline transformer (EN-DE) | x | WMT-14 val |
-| Baseline transformer (DE-EN) | x | WMT-14 val |
-
-I got these using greedy decoding so it's a pessimistic estimate, I'll add beam decoding [soon.](#todos)
-
-**Important note:** Initialization matters a lot for the transformer! I initially thought that other implementations
-using Xavier initialization is again one of those arbitrary heuristics and that PyTorch default init will do - I was wrong:
-
-<p align="center">
-<img src="data/readme_pics/bleu_score_xavier_vs_default_pt_init.PNG" width="450"/>
-</p>
-
-You can see here 3 runs, the 2 lower ones used PyTorch default initialization (one used `mean` for KL divergence
-loss and the better one used `batchmean`), whereas the upper one used **Xavier uniform** initialization!
- 
----
-
-Idea: you could potentially also periodically dump translations for a reference batch of source sentences. <br/>
-That would give you some qualitative insight into how the transformer is doing, although I didn't do that. <br/>
-A similar thing is done when you have hard time quantitatively evaluating your model like in [GANs](https://github.com/gordicaleksa/pytorch-gans) and [NST](https://github.com/gordicaleksa/pytorch-nst-feedforward) fields.
-
-### Tracking using Tensorboard
-
-The above plot is a snippet from my Azure ML run but when I run stuff locally I use Tensorboard.
-
-Just run `tensorboard --logdir=runs` from your Anaconda console and you can track your metrics during the training.
-
-### Visualizing attention
-
-You can use the `translation_script.py` and set the `--visualize_attention` to True to additionally understand what your
-model was "paying attention to" in the source and target sentences.
-
-Here are the attentions I get for the input sentence `Ich bin ein guter Mensch, denke ich.`
-
-These belong to layer 6 of the encoder. You can see all of the 8 multi-head attention heads.
-
-<p align="center">
-<img src="data/readme_pics/attention_enc_self.PNG" width="850"/>
-</p>
-
-And this one belongs to decoder layer 6 of the self-attention decoder MHA (multi-head attention) module. <br/>
-You can notice an interesting **triangular pattern** which comes from the fact that target tokens can't look ahead!
-
-<p align="center">
-<img src="data/readme_pics/attention_dec_self.PNG" width="850"/>
-</p>
-
-The 3rd type of MHA module is the source attending one and it looks similar to the plot you saw for the encoder. <br/>
-Feel free to play with it at your own pace!
-
-*Note: there are obviously some bias problems with this model but I won't get into that analysis here*
+That's it! It should work out-of-the-box executing requirements.txt file which deals with dependencies. <br/>
 
 
 
-### Todos:
+
+## Todos:
 
 Finally there are a couple more todos which I'll hopefully add really soon:
 * Explore how open source LLMs can be used to detect these scams.
