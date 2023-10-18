@@ -6,7 +6,7 @@ It's aimed at exploring various ways to detect **Scam Signatures** about transfo
   * [What are Telephone-based Social Engineering attacks?](#what-are-telephone-based-social-engineering-attacks)
   * [Understanding Document Vectorization](#understanding-vectorization)
   * [Clustering Techniques](#clustering-techniques)
-  * [Classification Models](#classification-techniques)
+  * [Classification Models](#classification-models)
   * [Setup](#setup)
   * [Usage](#usage)
   * [Hardware requirements](#hardware-requirements)
@@ -19,7 +19,7 @@ Each scam type is identified by a set of speech acts that are collectively refer
 for that attack. A scam signature uniquely identifies a class of social engineering attacks in the same way that a malware signature uniquely identifies a class of malware. I will use a social engineering detection approach called the **Anti-Social Engineering Tool (ASsET)**, which detects attacks based on the semantic content of the conversation.
 
 <p align="center">
-<img src="data/readme_pics/scam-signature.png" width="700"/>
+<img src="readme_pics/scam-signature.png" width="700"/>
 </p>
 
 ## Understanding Vectorization
@@ -39,14 +39,14 @@ Distributed Memory is a variant of the Doc2Vec model, which is an extension of t
 The projection layer is responsible for creating the word vectors and document vectors. For each word in the input sequence, a unique word vector is created, and for each document, a unique document vector is created. These vectors are learned through the training process by optimizing a loss function that minimizes the difference between the predicted word and the actual target word. The output neural network takes the distributed representation of the context and predicts the target word.
 
 <p align="center">
-<img src="data/readme_pics/DM.png" width="400"/>
+<img src="readme_pics/DM.png" width="400"/>
 </p>
 
 
 ➡️ Distributed Bag of Words (DBOW): DBOW is a simpler version of the Doc2Vec algorithm that focuses on understanding how words are distributed in a text, rather than their meaning. This architecture is preferred when the goal is to analyze the structure of the text, rather than its content. In the DBOW architecture, a unique vector representation is assigned to each document in the corpus, but there are no separate word vectors.  Instead, the algorithm takes in a document and learns to predict the probability of each word in the document given only the document vector. The model does not take into account the order of the words in the document, treating the document as a collection or “bag ” of words. This makes the DBOW architecture faster to train than DM, but potentially less powerful in capturing the meaning of the documents.
 
 <p align="center">
-<img src="data/readme_pics/DBOW.png" width="400"/>
+<img src="readme_pics/DBOW.png" width="400"/>
 </p>
 
 **Universal Sentence Encoder**
@@ -56,13 +56,17 @@ The Universal Sentence Encoder encodes text into high-dimensional vectors that c
 The model is trained and optimized for greater-than-word length text, such as sentences, phrases or short paragraphs. It is trained on a variety of data sources and a variety of tasks with the aim of dynamically accommodating a wide variety of natural language understanding tasks. The input is variable length English text and the output is a 512 dimensional vector. The universal-sentence-encoder model is trained with a **Deep Averaging Network (DAN)** encoder.
 
 <p align="center">
-<img src="data/readme_pics/DAN.png" width="400"/>
+<img src="readme_pics/DAN.png" width="400"/>
 </p>
 
 
-### Clustering Techniques
+## Clustering Techniques
 
 In this project, I have used three different clustering techniques: **K-MEANS**, **DB-SCAN** and **EM**. 
+
+<p align="center">
+<img src="readme_pics/clustering.png" width="400"/>
+</p>
 
 **K-Means Clustering:**
 K-Means is a popular unsupervised machine learning algorithm used for clustering data. It partitions a dataset into K distinct, non-overlapping clusters based on the similarity of data points. The algorithm works by iteratively assigning data points to the nearest cluster centroid and updating the centroids to minimize the within-cluster variance. K-Means is efficient and easy to implement but requires specifying the number of clusters (K) in advance, which can be a limitation.
@@ -86,86 +90,22 @@ Comparing the three techniques on the basis of cluster shape, size, noise, scala
 
 5) Initialization Sensitivity: K-Meansis sensitive to the initial choice of centroids, may converge to suboptimal solutions. DBSCAN is not sensitive to initialization. EM is sensitive to initialization, can converge to different solutions based on the initial parameters.
 
-### Custom Learning Rate Schedule
+## Classification Models
 
-Similarly can you parse this one in `O(1)`?
+In this project I have used various classification models like Logistic regression, Random forest classifier, Xgboost, Catboost, and Gausian Naive Bayes.
 
-<p align="left">
-<img src="data/readme_pics/lr_formula.PNG"/>
-</p>
+[Learn More](https://www.geeksforgeeks.org/getting-started-with-classification/)
 
-Noup? So I thought, here it is visualized:
 
-<p align="center">
-<img src="data/readme_pics/custom_learning_rate_schedule.png"/>
-</p>
-
-It's super easy to understand now. Now whether this part was crucial for the success of transformer? I doubt it.
-But it's cool and makes things more complicated. :nerd_face: (`.set_sarcasm(True)`)
-
-*Note: model dimension is basically the size of the embedding vector, baseline transformer used 512, the big one 1024*
-
-### Label Smoothing
-
-First time you hear of label smoothing it sounds tough but it's not. You usually set your target vocabulary distribution
-to a `one-hot`. Meaning 1 position out of 30k (or whatever your vocab size is) is set to 1. probability and everything else to 0.
-
-<p align="center">
-<img src="data/readme_pics/label_smoothing.PNG" width="700"/>
-</p>
-
-In label smoothing instead of placing 1. on that particular position you place say 0.9 and you evenly distribute the rest of
-the "probability mass" over the other positions 
-(that's visualized as a different shade of purple on the image above in a fictional vocab of size 4 - hence 4 columns)
-
-*Note: Pad token's distribution is set to all zeros as we don't want our model to predict those!*
-
-Aside from this repo (well duh) I would highly recommend you go ahead and read [this amazing blog](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar!
-
-## Machine translation
-
-Transformer was originally trained for the NMT (neural machine translation) task on the [WMT-14 dataset](https://torchtext.readthedocs.io/en/latest/datasets.html#wmt14) for:
-* English to German translation task (achieved 28.4 [BLEU score](https://en.wikipedia.org/wiki/BLEU))
-* English to French translation task (achieved 41.8 BLEU score)
- 
-What I did (for now) is I trained my models on the [IWSLT dataset](https://torchtext.readthedocs.io/en/latest/datasets.html#iwslt), which is much smaller, for the
-English-German language pair, as I speak those languages so it's easier to debug and play around.
-
-I'll also train my models on WMT-14 soon, take a look at the [todos](#todos) section.
-
----
-
-Anyways! Let's see what this repo can practically do for you! Well it can translate!
-
-Some short translations from my German to English IWSLT model: <br/><br/>
-Input: `Ich bin ein guter Mensch, denke ich.` ("gold": I am a good person I think) <br/>
-Output: `['<s>', 'I', 'think', 'I', "'m", 'a', 'good', 'person', '.', '</s>']` <br/>
-or in human-readable format: `I think I'm a good person.`
-
-Which is actually pretty good! Maybe even better IMO than Google Translate's "gold" translation.
-
----
-
-There are of course failure cases like this: <br/><br/>
-Input: `Hey Alter, wie geht es dir?` (How is it going dude?) <br/>
-Output: `['<s>', 'Hey', ',', 'age', 'how', 'are', 'you', '?', '</s>']` <br/>
-or in human-readable format: `Hey, age, how are you?` <br/>
-
-Which is actually also not completely bad! Because:
-* First of all the model was trained on IWSLT (TED like conversations)
-* "Alter" is a colloquial expression for old buddy/dude/mate but it's literal meaning is indeed age.
-
-Similarly for the English to German model.
 
 ## Setup
 
-So we talked about what transformers are, and what they can do for you (among other things). <br/>
+So we talked about what telephone based social engineering attacks are, and what they can do for you (among other things). <br/>
 Let's get this thing running! Follow the next steps:
 
-1. `git clone https://github.com/gordicaleksa/pytorch-original-transformer`
-2. Open Anaconda console and navigate into project directory `cd path_to_repo`
-3. Run `conda env create` from project directory (this will create a brand new conda environment).
-4. Run `activate pytorch-transformer` (for running scripts from your console or set the interpreter in your IDE)
+1. `git clone https://github.com/abideenml/ResearchProjects`
+2. Navigate into project directory `cd path_to_repo` and then move to  `Detecting-Telephone-based-Social-Engineering-Attacks` folder.
+3. Create a new venv environment and run `pip install -r requirements.txt`
 
 That's it! It should work out-of-the-box executing environment.yml file which deals with dependencies. <br/>
 It may take a while as I'm automatically downloading SpaCy's statistical models for English and German.
