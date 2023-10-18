@@ -1,5 +1,10 @@
 ## Detecting Telephone-based Social Engineering Attacks Using Document Vectorization and Classification of Scam Signatures :phone: = :cl:
 This repo contains the Scam Signature detection dataset and collection of various Vectorization, Clustering and Classification techniques to effectively detect telephone-based social engineering attacks. This repo uses a social engineering detection approach called the Anti-Social Engineering Tool (ASsET), which detects attacks based on the semantic content of the conversation. (:link: [Ali et al.](https://dl.acm.org/doi/pdf/10.1145/3445970.3451152)). <br/>
+
+<p align="center">
+<img src="readme_pics/architecture.png" width="700"/>
+</p>
+
 It's aimed at exploring various ways to detect **Scam Signatures** about transformers. <br/>
 
 ## Table of Contents
@@ -111,6 +116,7 @@ Let's get this thing running! Follow the next steps:
 4. Run the `DocToVec_KMeans_+_EM_CLustering_Classifications_+_DBSCAN.ipynb` and `Universal_Vector_Encoding_KMeans_+_EM_+_DBSCAN_Clustering_Classifications.ipynb` file.
 
 That's it! It should work out-of-the-box executing requirements.txt file which deals with dependencies. <br/>
+
 
 
 
