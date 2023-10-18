@@ -2,7 +2,7 @@
 This repo contains the Scam Signature detection dataset and collection of various Vectorization, Clustering and Classification techniques to effectively detect telephone-based social engineering attacks. This repo uses a social engineering detection approach called the Anti-Social Engineering Tool (ASsET), which detects attacks based on the semantic content of the conversation. (:link: [Ali et al.](https://dl.acm.org/doi/pdf/10.1145/3445970.3451152)). <br/>
 
 <p align="center">
-<img src="readme_pics/architecture.png" width="700"/>
+<img src="readme_pics/Architecture.png" width="700"/>
 </p>
 
 It's aimed at exploring various ways to detect **Scam Signatures** about transformers. <br/>
