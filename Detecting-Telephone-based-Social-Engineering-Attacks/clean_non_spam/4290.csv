@@ -1,0 +1,654 @@
+,0
+0,Media audio
+1, laughs and I said well you know that far away from home any
+2, familiar face is a comfort even if it is just mike price s laughs
+3, 
+4, mor coord and pro sub I v say P ST cm cm n well cm cm pro per you
+5, v know cm cm pro rel that adv far adv away prep from n home qn any
+6, adj familiar n face cop be S det art a n comfort adv even conj if
+7, pro per it cop be S adv just n mike n price poss s 
+8, gra LINK SU J ROOT LP SU J LP SU J
+9, ENUM LP LINK JCT JCT JCT PO J
+10, QU NT MOD SU J CJCT DET PRED
+11, NJCT LINK SU J CPO J JCT PRED
+12, ENUM POSS PUNCT
+13, yeah 
+14, mor co yeah 
+15, gra INCROOT PUNCT
+16, smacks lips yeah 
+17, mor co yeah 
+18, gra INCROOT PUNCT
+19, hm 
+20, anyway um 
+21, mor adv anyway cm cm cm cm 
+22, gra INCROOT LP LP PUNCT
+23, well it was fun 
+24, mor co well pro per it cop be P ST S adj fun 
+25, gra COM SU J ROOT PRED PUNCT
+26, the food was great 
+27, mor det art the n food cop be P ST S adj great 
+28, gra DET SU J ROOT PRED PUNCT
+29, it was catered 
+30, mor pro per it aux be P ST S part cater P STP 
+31, gra SU J UX ROOT PUNCT
+32, it was just wonderful 
+33, mor pro per it cop be P ST S adv just adj wonder FULL 
+34, gra SU J ROOT JCT PRED PUNCT
+35, wow 
+36, mor co wow 
+37, gra INCROOT PUNCT
+38, and I won t tell to everything because it s all in your letter 
+39, mor coord and pro sub I mod will neg not v tell prep to
+40, pro indef everything conj because pro per it cop be S adv all
+41, prep in det poss your n letter 
+42, gra LINK SU J UX NEG ROOT JCT PO J
+43, LINK SU J CJCT JCT JCT MOD
+44, PO J PUNCT
+45, okay yeah y I notice that every time I get a letter it s well
+46, we ve covered all this 
+47, mor co okay co yeah cm cm pro sub I v notice pro dem that qn every
+48, n time pro sub I v get det art a n letter pro per it cop be S
+49, adv well pro sub we aux have part cover P STP qn all pro dem this 
+50, gra COM COM LP SU J ROOT O J QU NT O J
+51, SU J CMOD DET O J SU J CMOD
+52, JCT SU J UX PRED QU NT O J
+53, PUNCT
+54, and uh 
+55, mor coord and cm cm cm cm 
+56, gra INCROOT LP LP PUNCT
+57, but it s still good to get the letters 
+58, mor conj but pro per it cop be S adj still adj good inf to v get
+59, det art the n letter PL 
+60, gra LINK SU J ROOT JCT PRED INF XJCT
+61, DET O J PUNCT
+62, yeah you can reread them 
+63, mor co yeah pro per you mod can re v read ZERO pro obj them 
+64, gra COM SU J UX ROOT O J PUNCT
+65, reread them yeah uh and I have 
+66, mor re v read ZERO pro obj them cm cm co yeah cm cm cm cm coord and
+67, pro sub I v have 
+68, gra INCROOT O J LP ENUM LP LP LINK SU J
+69, CJCT PUNCT
+70, reread them Larry Japanese pronunciation 
+71, mor re v read ZERO pro obj them n prop Larry 
+72, gra INCROOT MOD COMP PUNCT
+73, and get my pictures 
+74, mor coord and v get det poss my n picture PL 
+75, gra LINK ROOT MOD O J PUNCT
+76, yeah 
+77, mor co yeah 
+78, gra INCROOT PUNCT
+79, oh yeah see they can t say r l s over here 
+80, mor co oh co yeah cm cm v see pro sub they mod can neg not v say
+81, n let r PL adv over adv here 
+82, gra COM COM LP ENUM SU J UX NEG ROOT
+83, O J JCT JCT PUNCT
+84, some of these hotels a lot of the hotels when you get 
+85, mor qn some prep of pro dem these n hotel PL cm cm det art a n lot
+86, prep of det art the n hotel PL conj when pro per you v get 
+87, gra QU NT JCT DET PO J LP DET INCROOT
+88, NJCT DET PO J LINK SU J CJCT
+89, PUNCT
+90, in the elevator and you want to go downstairs you have to press
+91, robby n lobby Japanese pronunciation 
+92, mor prep in det art the n elevator coord and pro per you v want inf to
+93, v go adv downstairs pro per you v have prep to n press n lobby 
+94, gra INCROOT DET PO J LINK SU J CPO J INF
+95, XJCT JCT SU J COMP JCT MOD
+96, PO J PUNCT
+97, wobby n lobby Japanese pronunciation 
+98, mor n lobby 
+99, gra INCROOT PUNCT
+100, robby n lobby Japanese pronunciation 
+101, mor n lobby 
+102, gra INCROOT PUNCT
+103, robby n lobby Japanese pronunciation 
+104, mor n lobby 
+105, gra INCROOT PUNCT
+106, it s spelled r n o n b n b n y n 
+107, mor pro per it aux be S part spell P STP neo r neo o neo b neo b neo y
+108, 
+109, gra SU J UX ROOT O J CONJ COORD CONJ
+110, COORD PUNCT
+111, mhm 
+112, mor co yes 
+113, gra INCROOT PUNCT
+114, yep 
+115, mor co yep 
+116, gra INCROOT PUNCT
+117, laughs 
+118, laughs 
+119, well when I called the first time to get your room number and 
+120, mor co well conj when pro sub I v call P ST det art the adj first
+121, n time inf to v get det poss your n room n number coord and 
+122, gra COM LINK SU J ROOT DET MOD O J INF
+123, XMOD MOD MOD O J CONJ PUNCT
+124, uh I 
+125, mor cm cm pro sub I 
+126, gra INCROOT ENUM PUNCT
+127, I said um he said who do you want to talk to 
+128, mor pro sub I v say P ST cm cm pro sub he v say P ST pro rel who v do
+129, pro per you v want prep to n talk prep to 
+130, gra SU J ROOT LP SU J CJCT LINK COMP
+131, SU J COMP JCT PO J JCT PUNCT
+132, I said um Mcgwire 
+133, mor pro sub I v say P ST cm cm n prop Mcgwire 
+134, gra SU J ROOT LP ENUM PUNCT
+135, he said what s the name 
+136, mor pro sub he v say P ST pro int what poss s det art the n name 
+137, gra SU J ROOT MOD POSS DET O J PUNCT
+138, I said Mcgwire 
+139, mor pro sub I v say P ST n prop Mcgwire 
+140, gra SU J ROOT O J PUNCT
+141, and he said mister Larry Japanese pronunciation laughs 
+142, mor coord and pro sub he v say P ST n mister n prop Larry 
+143, gra LINK SU J ROOT MOD O J PUNCT
+144, laughs 
+145, and I said yep 
+146, mor coord and pro sub I v say P ST co yep 
+147, gra LINK SU J ROOT O J PUNCT
+148, rat s rim laughs 
+149, mor n rat poss s n rim 
+150, gra MOD POSS INCROOT PUNCT
+151, yeah well they have a problem with that so 
+152, mor co yeah n well pro sub they v have det art a n problem prep with
+153, pro dem that adv so 
+154, gra COM JCT SU J ROOT DET O J NJCT PO J
+155, JCT PUNCT
+156, laughs 
+157, sighs it s deep 
+158, mor pro per it cop be S adj deep 
+159, gra SU J ROOT PRED PUNCT
+160, yep breathes um let s see 
+161, mor co yep v let pro obj us v see 
+162, gra COM ROOT O J COMP PUNCT
+163, I m just going to work and back and forth 
+164, mor pro sub I aux be S adv just part go PRESP inf to v work coord and
+165, adv back coord and adv forth 
+166, gra SU J UX JCT ROOT INF COMP CONJ
+167, COORD CONJ COORD PUNCT
+168, I m filling out applications for jobs and trying to get them sent
+169, in 
+170, mor pro sub I aux be S part fill PRESP adv out n application PL
+171, prep for n job PL coord and part try PRESP inf to v get pro obj them
+172, v send P ST adv in 
+173, gra SU J UX ROOT JCT O J NJCT PO J
+174, CONJ COORD INF COMP O J COMP
+175, JCT PUNCT
+176, I ve got to finish them up monday 
+177, mor pro sub I aux have part get P STP inf to v finish pro obj them
+178, adv up n monday 
+179, gra SU J UX ROOT INF COMP O J JCT PO J
+180, PUNCT
+181, yeah well you had hav you ve had an interview at out at valley
+182, already 
+183, mor co yeah n well pro per you v have P ST pro per you aux have
+184, part have P STP det art a n interview prep at adv out prep at
+185, n valley adv already 
+186, gra COM JCT SU J ROOT SU J UX COMP DET
+187, O J JCT JCT JCT PO J PO J
+188, PUNCT
+189, yeah um it it was fine 
+190, mor co yeah pro per it pro per it cop be P ST S adv fine 
+191, gra COM SU J SU J ROOT JCT PUNCT
+192, they ll call me if they have any night classes available but right
+193, now they don t so 
+194, mor pro sub they mod will v call pro obj me conj if pro sub they v have
+195, qn any n night v class S adj avail dv LE conj but adv right
+196, adv now pro sub they mod do neg not cm cm adv so 
+197, gra SU J UX ROOT O J LINK SU J CJCT
+198, QU NT SU J COMP JCT CONJ JCT
+199, COORD SU J UX NEG LP JCT
+200, PUNCT
+201, mhm 
+202, mor co yes 
+203, gra INCROOT PUNCT
+204, and they don t they they re probably not going to get any 
+205, mor coord and pro sub they mod do neg not pro sub they
+206, pro sub they aux be PRES adv probable dadj LY neg not part go PRESP
+207, inf to v get qn any 
+208, gra LINK SU J UX NEG ROOT SU J UX
+209, JCT NEG COMP INF COMP O J
+210, PUNCT
+211, so I just have to wait and see 
+212, mor co so pro sub I adv just v have inf to v wait coord and v see 
+213, gra COM SU J JCT ROOT INF COMP CONJ
+214, COORD PUNCT
+215, Northridge I don t know anything about either but it s all in the
+216, letter 
+217, mor n prop Northridge pro sub I mod do neg not v know
+218, pro indef anything prep about adv either conj but
+219, pro per it cop be S adv all prep in det art the n letter 
+220, gra LINK SU J UX NEG ROOT O J JCT PO J
+221, LINK SU J CJCT JCT JCT DET
+222, PO J PUNCT
+223, that s in the letter 
+224, mor pro dem that cop be S prep in det art the n letter 
+225, gra SU J ROOT JCT DET PO J PUNCT
+226, mhm 
+227, mor co yes 
+228, gra INCROOT PUNCT
+229, um let s see I talked to ken and Vicki yesterday ken I and I
+230, think ken might have gone to rizona today to work 
+231, mor v let pro obj us v see pro sub I v talk P ST prep to n ken
+232, coord and n prop Vicki adv tem yesterday v know pro sub I coord and
+233, pro sub I v think n ken mod might v have part go P STP prep to
+234, n prop rizona adv tem today prep to n work 
+235, gra ROOT O J COMP SU J COMP INF SU J
+236, CONJ COORD JCT COMP SU J LINK
+237, SU J COMP SU J UX COMP O J
+238, JCT PO J JCT JCT PO J PUNCT
+239, he got laid off when they stopped um 
+240, mor pro sub he v get P ST v lay P ST adv off conj when pro sub they
+241, v stop P ST 
+242, gra SU J SU J ROOT JCT LINK SU J CJCT
+243, PUNCT
+244, well you were here when they had the big sink holes in Hollywood 
+245, 
+246, mor co well pro per you cop be P ST adv here conj when pro sub they
+247, v have P ST det art the adj big n sink n hole PL prep in
+248, n prop Hollywood 
+249, gra COM SU J ROOT JCT LINK SU J CJCT
+250, DET MOD MOD O J NJCT PO J
+251, PUNCT
+252, no 
+253, mor co no 
+254, gra INCROOT PUNCT
+255, due to the Metrorail 
+256, mor adj due prep to det art the n prop Metrorail 
+257, gra INCROOT JCT DET PO J PUNCT
+258, well they ve had those off and on well not big ones but 
+259, mor n well pro sub they aux have v have P ST det dem those adv off
+260, coord and prep on adv well cm cm neg not adj big pro indef one PL
+261, cm cm conj but 
+262, gra LINK SU J UX ROOT PUNCT JCT CONJ
+263, COORD PO J LP NEG INCROOT ENUM
+264, LP ENUM PUNCT
+265, well there was this one that was about you know five blocks long
+266, it was just 
+267, mor co well cm cm adv there cop be P ST S pro dem this pro indef one
+268, pro rel that cop be P ST S prep about pro per you v know
+269, det num five n block PL adv long pro per it cop be P ST S adv just
+270, 
+271, gra COM LP SU J ROOT DET PRED LINK CMOD
+272, JCT SU J PRED QU NT O J JCT
+273, SU J COMP JCT PUNCT
+274, oh really 
+275, mor co oh adv real dadj LY 
+276, gra INCROOT JCT PUNCT
+277, well not five blocks but it was you know a good 
+278, mor co well neg not det num five n block PL cm cm conj but pro per it
+279, cop be P ST S pro per you v know det art a adj good 
+280, gra COM NEG QU NT ROOT LP LINK SU J
+281, CJCT SU J ENUM DET JCT PUNCT
+282, good size hole 
+283, mor adj good n size n hole 
+284, gra MOD MOD INCROOT PUNCT
+285, oh it wa they closed Hollywood boulevard for a long time it was
+286, about um 
+287, mor co oh pro per it pro sub they v close P ST n prop Hollywood
+288, n boulevard prep for det art a adj long n time pro per it
+289, cop be P ST S adv about 
+290, gra COM JCT SU J ROOT MOD O J JCT DET
+291, MOD PO J SU J CJCT JCT PUNCT
+292, sixty feet by a hundred feet or something it was big 
+293, mor det num sixty n foot PL prep by det art a det num hundred n foot PL
+294, coord or pro indef something pro per it cop be P ST S adj big 
+295, gra QU NT INCROOT NJCT DET QU NT PO J CONJ
+296, COORD SU J CMOD PRED PUNCT
+297, and so they shut down Metrorail because you know it s all because
+298, of that they re not doing things the way they re supposed to and
+299, consequently 
+300, mor coord and conj so pro sub they v shut ZERO adv down
+301, n prop Metrorail conj because pro per you v know
+302, pro per it cop be S adv all conj because prep of det dem that
+303, pro sub they aux be PRES neg not part do PRESP n thing PL
+304, det art the n way pro sub they aux be PRES v suppose P ST inf to
+305, coord and adv consequent dadj LY 
+306, gra LINK LINK SU J CJCT JCT JCT LINK
+307, SU J SU J O J UX JCT LINK
+308, NJCT PO J SU J UX NEG CJCT
+309, SU J DET JCT SU J UX ROOT
+310, O J CONJ COORD PUNCT
+311, the boulevard s caving in 
+312, mor det art the n boulevard aux be S part cave PRESP adv in 
+313, gra DET SU J UX ROOT JCT PUNCT
+314, and ken was working that you know so um 
+315, mor coord and n ken aux be P ST S part work PRESP pro rel that
+316, pro per you v know co so 
+317, gra LINK SU J UX ROOT LINK SU J COMP
+318, O J PUNCT
+319, he he was laid off and um he just 
+320, mor pro sub he pro sub he aux be P ST S v lay P ST adv off coord and
+321, pro sub he adv just 
+322, gra SU J SU J UX ROOT JCT CONJ COORD
+323, JCT PUNCT
+324, e they said the other night that he thought he would go to Japan 
+325, because he could get the uh Japan go to rizona because he could
+326, um 
+327, mor pro sub they v say P ST det art the qn other n night pro rel that
+328, pro sub he v think P ST pro sub he mod will COND v go prep to
+329, n prop Japan cm cm conj because pro sub he mod could v get
+330, det art the n prop Japan v go prep to n prop rizona conj because
+331, pro sub he mod could 
+332, gra SU J ROOT DET QU NT O J LINK SU J
+333, CMOD SU J UX COMP JCT PO J LP
+334, LINK SU J UX CJCT DET SU J
+335, COMP JCT PO J LINK SU J CJCT
+336, PUNCT
+337, you know sign up and start working monday 
+338, mor pro per you v know v sign adv up coord and v start part work PRESP
+339, n monday 
+340, gra SU J SU J ROOT JCT CONJ COORD MOD
+341, O J PUNCT
+342, only the pay is not as good as here so he has to work overtime and
+343, it s a sixty hour week and therefore he can t come home on
+344, weekends so 
+345, mor adv only det art the v pay aux be S neg not prep as adj good
+346, adv as adv here co so pro sub he aux have S inf to v work
+347, n overtime coord and pro per it cop be S det art a det num sixty
+348, n hour n week coord and cm cm adv therefore cm cm pro sub he
+349, mod can neg not v come adv home prep on n n week n end PL cm cm
+350, co so 
+351, gra JCT DET ROOT O J NEG COORD PRED
+352, COORD JCT COM SU J UX INF
+353, CMOD O J LINK SU J CJCT DET
+354, QU NT MOD PRED LINK SU J JCT
+355, LP SU J UX NEG CMOD JCT
+356, JCT PO J LP COM PUNCT
+357, now th I think he I he was doing the yard this morning I said
+358, well maybe he s not going if he s into yard work 
+359, mor adv now pro sub I v think pro sub he pro sub I pro sub he
+360, aux be P ST S part do PRESP det art the n yard pro dem this
+361, n morning pro sub I v say P ST adv well adv maybe
+362, pro sub he aux be S neg not part go PRESP conj if
+363, pro sub he cop be S prep into n yard n work 
+364, gra JCT SU J ROOT SU J SU J SU J UX
+365, JCT DET O J DET O J SU J COMP
+366, JCT JCT SU J UX NEG XJCT
+367, LINK SU J CJCT JCT MOD PO J
+368, PUNCT
+369, and then later I saw him packing up the truck 
+370, mor coord and adv tem then adv later pro sub I v see P ST pro obj him
+371, part pack PRESP prep up det art the n truck 
+372, gra LINK JCT JCT SU J ROOT SU J COMP
+373, JCT DET PO J PUNCT
+374, and then I missed when he left I didn t see you know Vicki say
+375, goodbye or anything so 
+376, mor coord and adv tem then pro sub I v miss P ST conj when pro sub he
+377, v leave P ST pro sub I mod do P ST neg not v see pro per you v know
+378, n prop Vicki co say co goodbye coord or pro indef anything adv so 
+379, gra LINK JCT SU J ROOT LINK SU J CJCT
+380, SU J UX NEG COMP SU J COMP
+381, O J COM O J CONJ COORD NJCT
+382, PUNCT
+383, he may be off to 
+384, mor pro sub he mod may cop be adv off prep to 
+385, gra SU J UX ROOT JCT JCT PUNCT
+386, to rizona for god knows how long sighs 
+387, mor prep to n prop rizona prep for n god v know S adv int how
+388, adv long 
+389, gra LINK PO J JCT SU J ROOT O J JCT
+390, PUNCT
+391, we have new neighbors they moved in 
+392, mor pro sub we v have adj new n neighbor PL pro sub they v move P ST
+393, adv in 
+394, gra SU J ROOT MOD O J SU J CMOD JCT
+395, PUNCT
+396, well who are they what are they 
+397, mor n well cm cm pro rel who cop be PRES pro sub they det int what
+398, aux be PRES pro sub they 
+399, gra INCROOT LP LINK PUNCT PRED SU J UX
+400, INCROOT PUNCT
+401, they re some kind of mexicans with three kids 
+402, mor pro sub they cop be PRES qn some n kind prep of n adj mexican PL
+403, prep with det num three n kid PL 
+404, gra SU J ROOT QU NT PRED NJCT PO J NJCT
+405, QU NT PO J PUNCT
+406, sighs oh boy 
+407, mor co oh n boy 
+408, gra COM INCROOT PUNCT
+409, and a dog 
+410, mor coord and det art a n dog 
+411, gra LINK DET INCROOT PUNCT
+412, oh boy 
+413, mor co oh n boy 
+414, gra COM INCROOT PUNCT
+415, but the dog seems fairly cool tha he hasn t barked too much 
+416, mor conj but det art the n dog cop seem S adv fair dadj LY adj cool
+417, pro sub he aux have S neg not part bark P STP adv too qn much 
+418, gra LINK DET SU J CJCT JCT PRED SU J
+419, UX NEG ROOT JCT JCT PUNCT
+420, is he a big dog small dog 
+421, mor cop be S pro sub he det art a adj big n dog adj small n dog 
+422, gra ROOT SU J DET MOD MOD MOD PRED
+423, PUNCT
+424, uh fairly big he looks sort of like a 
+425, mor adv fair dadj LY adj big pro sub he cop look S n sort prep of
+426, co like det art a 
+427, gra JCT INCROOT SU J CMOD PRED NJCT COM
+428, PO J PUNCT
+429, about bub s size but poodleish but doesn t weigh as much as bub 
+430, mor prep about n bub poss s n size conj but adj poodle dn ISH conj but
+431, mod do S neg not v weigh prep as qn much prep as n bub 
+432, gra INCROOT MOD POSS PO J CONJ COORD LINK
+433, UX NEG CJCT COORD COMP JCT
+434, PO J PUNCT
+435, hm 
+436, and Jojo had one of his parties again last night boy they were out
+437, there until all hours 
+438, mor coord and n prop Jojo v have P ST det num one prep of det poss his
+439, n party PL adv again adv last n night n boy pro sub they cop be P ST
+440, adv out adv there prep until adv all n hour PL 
+441, gra LINK SU J ROOT QU NT JCT MOD PO J
+442, JCT JCT MOD JCT SU J COMP JCT
+443, JCT JCT JCT PO J PUNCT
+444, well they do that so 
+445, mor co well pro sub they v do pro dem that cm cm adv so 
+446, gra COM SU J ROOT O J LP JCT PUNCT
+447, I know that s fine I saw it I looked over I said gee I wonder if
+448, he s got the new people over there already you know 
+449, mor pro sub I v know pro dem that cop be S adj fine pro sub I
+450, v see P ST pro per it pro sub I cop look P ST adv over pro sub I
+451, v say P ST co gee cm cm pro sub I v wonder conj if
+452, pro sub he aux be S part get P STP det art the adj new n person PL
+453, adv over adv there adv already cm cm pro per you v know 
+454, gra SU J ROOT SU J COMP PRED SU J COMP
+455, O J SU J COMP JCT SU J COMP
+456, O J LP SU J CJCT LINK SU J
+457, UX CJCT DET MOD SU J JCT
+458, JCT JCT LP SU J COMP PUNCT
+459, laughs 
+460, had is uh joey still going the lawn 
+461, mor v have P ST cop be S n joey adv still part go PRESP det art the
+462, n lawn 
+463, gra ROOT COMP PRED JCT XMOD DET O J
+464, PUNCT
+465, yup 
+466, mor co yup 
+467, gra INCROOT PUNCT
+468, I told you I ve sent you some money and then I told you to also pay
+469, him because I think he s going on vacation 
+470, mor pro sub I v tell P ST pro per you pro sub I aux have v send P ST
+471, pro per you qn some n money coord and adv tem then pro sub I
+472, v tell P ST pro per you inf to adv also v pay pro obj him
+473, conj because pro sub I v think pro sub he aux be S part go PRESP
+474, prep on n vacation 
+475, gra SU J ROOT O J SU J UX COMP O J 
+476, QU NT O J CONJ COORD SU J COMP
+477, SU J INF JCT COMP O J LINK
+478, SU J CJCT SU J UX COMP JCT
+479, PO J PUNCT
+480, he went on vacation the second week and I I took after he d the
+481, second week after he d done the grass two times I went over to 
+482, mor pro sub he v go P ST prep on n vacation det art the adj second
+483, n week coord and pro sub I pro sub I v take P ST prep after
+484, pro sub he mod genmod det art the adj second n week prep after
+485, pro sub he mod genmod part do P STP det art the n grass det num two
+486, n time PL pro sub I v go P ST adv over prep to 
+487, gra SU J ROOT JCT PO J DET MOD O J
+488, LINK SU J SU J CMOD JCT SU J
+489, UX DET MOD JCT LINK SU J
+490, UX CJCT DET MOD QU NT O J
+491, SU J CJCT JCT JCT PUNCT
+492, uh you know give him twenty bucks because I thought I knew he was
+493, going on vacation 
+494, mor pro per you v know v give pro obj him det num twenty n buck PL
+495, conj because pro sub I v think P ST pro sub I v know P ST pro sub he
+496, aux be P ST S part go PRESP prep on n vacation 
+497, gra SU J SU J ROOT O J QU NT O J LINK
+498, SU J CJCT SU J CJCT SU J UX
+499, COMP JCT PO J PUNCT
+500, mhm 
+501, mor co yes 
+502, gra INCROOT PUNCT
+503, and it was Dennis was there and I said well I know joey s going on
+504, vacation so I wanted to give him some money so he d have it 
+505, mor coord and pro per it cop be P ST S n prop Dennis cop be P ST S
+506, adv there coord and pro sub I v say P ST adv well cm cm pro sub I
+507, v know n joey aux be S part go PRESP prep on n vacation co so
+508, pro sub I v want P ST inf to v give pro obj him qn some n money
+509, adv so pro sub he mod genmod aux have pro per it 
+510, gra LINK SU J ROOT SU J PRED JCT LINK
+511, SU J CJCT JCT LP SU J CJCT SU J
+512, UX COMP JCT PO J COM SU J
+513, CJCT INF COMP O J QU NT O J
+514, JCT SU J UX UX O J PUNCT
+515, and laughs Dennis said he s already gone and Vivian said Dennis
+516, mowed the lawn today and I said well 
+517, mor coord and n prop Dennis v say P ST pro sub he cop be S adv already
+518, part go P STP coord and n prop Vivian v say P ST n prop Dennis
+519, v mow P ST det art the n lawn adv tem today coord and pro sub I
+520, v say P ST adv well 
+521, gra LINK SU J ROOT SU J COMP JCT PRED
+522, LINK SU J CJCT SU J COMP DET
+523, O J XMOD LINK SU J CJCT JCT
+524, PUNCT
+525, you make sure joey gets this money 
+526, mor pro per you v make adj sure n joey v get S pro dem this n money 
+527, gra SU J ROOT MOD SU J COMP DET O J
+528, PUNCT
+529, laughs 
+530, anyway he s been doing a good job he forgot one day and 
+531, mor adv anyway cm cm pro sub he aux be S aux be P STP part do PRESP
+532, det art a adj good n job pro sub he v forget P ST det num one n day
+533, coord and 
+534, gra JCT LP SU J UX UX CJCT DET MOD
+535, O J SU J ROOT QU NT O J CONJ
+536, PUNCT
+537, he came over later that night and he was just apologizing all over
+538, the place and I said it s no big deal joey just do it tomorrow 
+539, mor pro sub he v come P ST adv over adv later pro dem that n night
+540, coord and pro sub he cop be P ST S adv just part apologize PRESP
+541, adv all prep over det art the n place coord and pro sub I v say P ST
+542, pro per it cop be S qn no adj big n deal cm cm n joey cm cm
+543, adv just v do pro per it adv tem tomorrow 
+544, gra SU J ROOT JCT JCT DET JCT LINK SU J
+545, CJCT JCT PRED JCT JCT DET
+546, PO J LINK SU J CJCT SU J COMP
+547, QU NT MOD PRED LP ENUM LP
+548, JCT CJCT O J JCT PUNCT
+549, laughs you know 
+550, mor pro per you v know 
+551, gra SU J ROOT PUNCT
+552, yeah 
+553, mor co yeah 
+554, gra INCROOT PUNCT
+555, no I m sorry I m sorry I just feel terrible I said don t worry
+556, about it it s no problem 
+557, mor co no pro sub I cop be S adj sorry pro sub I cop be S adj sorry
+558, pro sub I adv just v feel adj terrible pro sub I v say P ST
+559, mod do neg not v worry prep about pro per it pro per it cop be S
+560, qn no n problem 
+561, gra COM SU J ROOT PRED SU J CJCT PRED
+562, SU J JCT CMOD PRED SU J CMOD
+563, UX NEG COMP JCT PO J SU J
+564, CJCT QU NT PRED PUNCT
+565, I told him yesterday you might hire him fulltime because you don t
+566, like to do the grass 
+567, mor pro sub I v tell P ST pro obj him adv tem yesterday pro per you
+568, mod might v hire pro obj him adv adj full n time conj because
+569, pro per you mod do neg not v like inf to v do det art the n grass 
+570, gra SU J ROOT O J JCT SU J UX COMP O J
+571, JCT LINK SU J UX NEG CJCT
+572, INF COMP DET O J PUNCT
+573, well I I might depending on how long this money holds out laughs
+574, 
+575, mor co well pro sub I pro sub I mod might cm cm part depend PRESP
+576, prep on adv int how v long pro dem this n money v hold S adv out 
+577, gra COM ROOT SU J UX LP COMP JCT LINK
+578, CPO J DET SU J COMP JCT PUNCT
+579, well we re going to have to buy a new car dear you know that 
+580, mor co well pro sub we aux be PRES part go PRESP inf to v have inf to
+581, v buy det art a adj new n car cm cm n dear pro per you v know
+582, pro dem that 
+583, gra COM SU J UX ROOT INF COMP INF COMP
+584, DET MOD O J LP ENUM SU J
+585, CMOD O J PUNCT
+586, yeah I know that 
+587, mor co yeah cm cm pro sub I v know pro dem that 
+588, gra COM LP SU J ROOT O J PUNCT
+589, my transmission s going 
+590, mor co my n transmission aux be S part go PRESP 
+591, gra COM SU J UX ROOT PUNCT
+592, you re kidding 
+593, mor pro per you aux be PRES part kid PRESP 
+594, gra SU J UX ROOT PUNCT
+595, I m sure it is 
+596, mor pro sub I cop be S adj sure pro per it cop be S 
+597, gra SU J ROOT JCT SU J PRED PUNCT
+598, hm 
+599, inhales 
+600, it s having trouble in reverse 
+601, mor pro per it aux be S part have PRESP n trouble prep in n reverse 
+602, gra SU J UX ROOT O J JCT PO J PUNCT
+603, wow 
+604, mor co wow 
+605, gra INCROOT PUNCT
+606, so I m keeping an eye on it but 
+607, mor adv so cm cm pro sub I aux be S part keep PRESP det art a n eye
+608, prep on pro per it cm cm conj but 
+609, gra JCT LP SU J UX ROOT DET O J JCT
+610, PO J LP ENUM PUNCT
+611, we just have to do it that s what we ll do when you first get home
+612, we ll buy the new car 
+613, mor pro sub we adv just v have inf to v do pro per it
+614, pro dem that cop be S pro int what pro sub we mod will v do
+615, conj when pro per you adv first v get n home pro sub we mod will
+616, v buy det art the adj new n car 
+617, gra SU J JCT ROOT INF COMP O J SU J
+618, COMP LINK SU J UX PRED LINK
+619, SU J JCT CJCT JCT SU J UX
+620, COMP DET MOD O J PUNCT
+621, yeah 
+622, mor co yeah 
+623, gra INCROOT PUNCT
+624, maybe have to do that right away 
+625, mor adv maybe v have inf to v do pro dem that adv right adv away 
+626, gra JCT ROOT INF COMP O J JCT JCT PUNCT
+627, we really do we shouldn t try to get any more miles out of any of
+628, these because they re going to get stuck somewhere 
+629, mor pro sub we adv real dadj LY v do pro sub we mod should neg not
+630, v try inf to v get qn any qn more n mile PL adv out prep of qn any
+631, prep of pro dem these conj because pro sub they aux be PRES
+632, part go PRESP inf to aux get part stick P STP n somewhere 
+633, gra SU J JCT ROOT SU J UX NEG COMP INF
+634, COMP QU NT QU NT O J JCT JCT
+635, PO J NJCT PO J LINK SU J UX
+636, CJCT INF UX COMP O J PUNCT
+637, oh no I don t I don t really want to I just uh 
+638, mor co oh co no pro sub I mod do neg not pro sub I mod do neg not
+639, adv real dadj LY v want prep to pro sub I adv just 
+640, gra COM COM SU J UX NEG SU J UX
+641, NEG JCT ROOT JCT PO J JCT
+642, PUNCT
+643, want to get out there on that first week and start doing it you
+644, know 
+645, mor v want inf to v get adv out adv there prep on pro dem that
+646, adv first n week coord and v start part do PRESP pro per it
+647, pro per you v know 
+648, gra ROOT INF COMP JCT JCT JCT DET JCT
+649, PO J CONJ COORD XJCT O J SU J
+650, COMP PUNCT
+651, End
+652,

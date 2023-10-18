@@ -1,0 +1,552 @@
+,0
+0,Media audio
+1, my mother in law s niece s daughter 
+2, mor det poss my n mother prep in n law poss s n niece poss s n daughter
+3, 
+4, gra MOD INCROOT NJCT MOD POSS MOD POSS
+5, PO J PUNCT
+6, uhhuh 
+7, mor co uhhuh 
+8, gra INCROOT PUNCT
+9, xxx 
+10, she s the one that s paying nothing 
+11, mor pro sub she cop be S det art the pro indef one
+12, pro rel that aux be S part pay PRESP pro indef nothing 
+13, gra SU J ROOT DET PRED LINK UX CMOD
+14, O J PUNCT
+15, well she got in for free 
+16, mor co well pro sub she v get P ST prep in prep for adv free 
+17, gra COM SU J ROOT JCT PO J PO J PUNCT
+18, yeah 
+19, mor co yeah 
+20, gra INCROOT PUNCT
+21, she knew she wasn t even accepted they pushed and pushed and
+22, pushed her grandfather s xxx 
+23, mor pro sub she v know P ST cm cm pro sub she aux be P ST S neg not
+24, adv even part accept P STP pro sub they v push P ST coord and
+25, v push P ST coord and part push P STP cm cm det poss her
+26, grand n father poss s 
+27, gra SU J ROOT LP SU J UX NEG JCT XJCT
+28, SU J COMP CONJ COORD CONJ COORD
+29, LP MOD O J POSS PUNCT
+30, from Meir so he called up breathes 
+31, mor prep from n prop Meir conj so pro sub he v call P ST adv up 
+32, gra INCROOT PO J LINK SU J CJCT JCT PUNCT
+33, and he got her in breathes 
+34, mor coord and pro sub he v get P ST det poss her adv in 
+35, gra LINK SU J ROOT O J JCT PUNCT
+36, mhm faint 
+37, mor co yes 
+38, gra INCROOT PUNCT
+39, wow breathes 
+40, mor co wow 
+41, gra INCROOT PUNCT
+42, xxx doing there 
+43, mor part do PRESP adv there 
+44, gra INCROOT JCT PUNCT
+45, nothing so I have to xxx today 
+46, mor pro indef nothing cm cm conj so pro sub I v have prep to
+47, adv tem today 
+48, gra INCROOT LP LINK SU J CJCT JCT PO J
+49, PUNCT
+50, who s is it 
+51, mor pro rel who aux be S aux be S pro per it 
+52, gra LINK ROOT UX PRED PUNCT
+53, it was my next door neighbor Suzanne she moved away 
+54, mor pro per it cop be P ST S det poss my adj next n door n neighbor
+55, cm cm n prop Suzanne pro sub she v move P ST adv away 
+56, gra SU J ROOT MOD MOD MOD PRED LP JCT
+57, SU J CJCT JCT PUNCT
+58, oh 
+59, mor co oh 
+60, gra INCROOT PUNCT
+61, but um 
+62, mor conj but 
+63, gra INCROOT PUNCT
+64, you re taking the girl 
+65, mor pro per you aux be PRES part take PRESP det art the n girl 
+66, gra SU J UX ROOT DET O J PUNCT
+67, yeah having a xxx but I m just taking Elke and sari 
+68, mor co yeah part have PRESP det art a conj but pro sub I aux be S
+69, adv just part take PRESP n prop Elke coord and n sari 
+70, gra COM ROOT DET CONJ SU J UX JCT
+71, COORD O J CONJ COORD PUNCT
+72, mhm did you get her the gift 
+73, mor co yes cm cm v do P ST pro per you v get pro obj her det art the
+74, n gift 
+75, gra INCROOT LP ENUM SU J COMP O J DET
+76, O J PUNCT
+77, I got her a set of towels three towels with her name on it 
+78, mor pro sub I v get P ST pro obj her det art a n set prep of n towel PL
+79, cm cm det num three n towel PL prep with det poss her n name prep on
+80, pro per it 
+81, gra SU J ROOT O J DET O J NJCT PO J LP
+82, QU NT PP NJCT MOD PO J JCT
+83, PO J PUNCT
+84, oh that s nice 
+85, mor co oh cm cm pro dem that cop be S adj nice 
+86, gra COM LP SU J ROOT PRED PUNCT
+87, yeah because they just moved into a new house and 
+88, mor co yeah cm cm conj because pro sub they adv just part move P STP
+89, prep into det art a adj new n house coord and 
+90, gra INCROOT LP LINK SU J JCT CJCT JCT
+91, DET MOD PO J COORD PUNCT
+92, her she has her she s the only daughter she has her own
+93, bedroom and her own bathroom 
+94, mor det poss her cm cm pro sub she aux have S pro obj her cm cm
+95, pro sub she cop be S det art the qn only n daughter cm cm
+96, pro sub she aux have S pro obj her adj own n n bed n room cm cm
+97, coord and det poss her adj own n n bath n room 
+98, gra LINK LP SU J UX ENUM LP SU J ROOT
+99, DET QU NT PRED LP SU J UX
+100, MOD MOD ENUM LP CONJ MOD
+101, MOD COORD PUNCT
+102, uhhuh 
+103, mor co uhhuh 
+104, gra INCROOT PUNCT
+105, so that s very nice 
+106, mor conj so pro rel that aux be S adv very adj nice 
+107, gra INCROOT LINK COMP JCT PRED PUNCT
+108, very pretty pink with you know like 
+109, mor adv very adj pretty n pink prep with pro per you v know cm cm
+110, prep like 
+111, gra JCT MOD SU J JCT PO J ROOT LP JCT
+112, PUNCT
+113, maroon lettering and 
+114, mor adj maroon n lettering coord and 
+115, gra MOD INCROOT CONJ PUNCT
+116, yeah 
+117, mor co yeah 
+118, gra INCROOT PUNCT
+119, you know green flower underneath 
+120, mor pro per you v know adj green n flower adv underneath 
+121, gra SU J ROOT MOD O J JCT PUNCT
+122, and that s my kvetching s heb today 
+123, mor coord and pro dem that cop be S co my L kvetching adv tem today 
+124, gra LINK SU J ROOT COM PRED JCT PUNCT
+125, mhm how s pool going 
+126, mor co yes adv int how aux be S n pool part go PRESP 
+127, gra COM LINK UX MOD ROOT PUNCT
+128, ah xxx was sick again on friday 
+129, mor cop be P ST S adj sick adv again prep on n friday 
+130, gra ROOT PRED JCT JCT PO J PUNCT
+131, with what 
+132, mor prep with pro int what 
+133, gra INCROOT PO J PUNCT
+134, she can t she doesn t digest it well 
+135, mor pro sub she mod can neg not cm cm pro sub she mod do S neg not
+136, v digest pro per it adv well 
+137, gra SU J UX NEG LP SU J UX NEG ROOT
+138, O J JCT PUNCT
+139, so what s going to be 
+140, mor adv so pro int what aux be S part go PRESP inf to cop be 
+141, gra JCT SU J UX ROOT INF COMP PUNCT
+142, now I m going to take her to a specialist in Manhattan Gribbet 
+143, mor adv now pro sub I aux be S part go PRESP inf to v take pro obj her
+144, prep to det art a n specialist prep in n prop Manhattan cm cm
+145, n prop Gribbet 
+146, gra JCT SU J UX ROOT INF COMP O J JCT
+147, DET PO J NJCT PO J LP ENUM
+148, PUNCT
+149, I ve heard of Gribbet 
+150, mor pro sub I aux have part hear P STP prep of n prop Gribbet 
+151, gra SU J UX ROOT JCT PO J PUNCT
+152, yeah he s a good doctor 
+153, mor co yeah cm cm pro sub he cop be S det art a adj good n doctor 
+154, gra COM LP SU J ROOT DET MOD PRED PUNCT
+155, did you get an appointment 
+156, mor v do P ST pro per you v get det art a n appointment 
+157, gra ROOT SU J COMP DET O J PUNCT
+158, no my mother in law is going to call us today 
+159, mor co no cm cm det poss my n mother prep in n law aux be S
+160, part go PRESP inf to v call pro obj us adv tem today 
+161, gra COM LP MOD SU J NJCT PO J UX ROOT
+162, INF COMP O J JCT PUNCT
+163, breathes 
+164, and um 
+165, mor coord and 
+166, gra INCROOT PUNCT
+167, xxx 
+168, but do they think that that s what caused it just that the the
+169, whole digestive system was out of whack 
+170, mor conj but mod do pro sub they v think pro dem that
+171, pro dem that cop be S pro int what v cause P ST pro per it cm cm
+172, adj just pro rel that det art the det art the n whole adj digestive
+173, n system aux be P ST S adv out prep of n whack 
+174, gra LINK UX SU J CJCT O J SU J ROOT
+175, LINK PRED O J LP MOD MOD DET
+176, DET MOD MOD PUNCT ROOT JCT
+177, JCT PO J PUNCT
+178, maybe but she I mean she wasn t xxx fever or anything 
+179, mor adv maybe conj but pro sub she cm cm pro sub I adj mean pro sub she
+180, cop be P ST S neg not n fever coord or pro indef anything 
+181, gra JCT LINK SU J LP SU J JCT SU J ROOT
+182, NEG PRED CONJ COORD PUNCT
+183, but she um 
+184, mor conj but pro sub she 
+185, gra LINK INCROOT PUNCT
+186, you know she co was constipated again on friday it took me
+187, about three hours to get it out 
+188, mor pro per you v know cm cm pro sub she cm cm aux be P ST S
+189, v constipated adv again prep on n friday pro per it v take P ST
+190, pro obj me prep about det num three n hour PL inf to v get
+191, pro per it adv out 
+192, gra SU J ROOT LP SU J LP UX COMP JCT
+193, JCT PO J SU J CJCT O J JCT
+194, QU NT O J INF XMOD O J JCT
+195, PUNCT
+196, and yesterday again it s very hard sh it needs something that
+197, you know will soften it 
+198, mor coord and adv tem yesterday adv again pro per it cop be S adv very
+199, adv hard cm cm pro per it v need S pro indef something pro rel that
+200, pro per you v know cm cm mod will v soften pro per it 
+201, gra LINK JCT JCT SU J ROOT JCT JCT LP
+202, SU J PRED O J LINK SU J CMOD
+203, LP UX COMP O J PUNCT
+204, wow poor kid did you have this with somebody else 
+205, mor co wow cm cm adj poor n kid mod do P ST pro per you v have
+206, pro dem this prep with pro indef somebody post else 
+207, gra COM LP MOD SU J UX SU J ROOT O J
+208, JCT PO J PQ PUNCT
+209, yeah but they it wasn t as bad I you know I would just stick up
+210, a thermometer and they would go 
+211, mor co yeah cm cm conj but pro sub they cm cm pro per it
+212, cop be P ST S neg not prep as adj bad cm cm pro sub I pro per you
+213, v know cm cm pro sub I mod will COND adj just n stick adv up
+214, det art a n thermometer coord and pro sub they mod will COND v go 
+215, gra COM LP LINK SU J LP SU J UX
+216, NEG COORD PRED LP SU J SU J
+217, CJCT LP SU J UX MOD INCROOT
+218, NJCT DET PO J LINK SU J UX
+219, CJCT PUNCT
+220, yeah I remember somebody was constipated 
+221, mor co yeah cm cm pro sub I v remember pro indef somebody
+222, aux be P ST S v constipated 
+223, gra COM LP SU J ROOT SU J UX COMP
+224, PUNCT
+225, yeah I m always constipated 
+226, mor co yeah cm cm pro sub I aux be S adv always v constipated 
+227, gra COM LP SU J UX JCT ROOT PUNCT
+228, yeah and I talked to mom last night 
+229, mor co yeah cm cm coord and pro sub I v talk P ST prep to n mom
+230, adv last n night 
+231, gra COM LP LINK SU J ROOT JCT PO J NJCT
+232, PO J PUNCT
+233, yeah what did she say 
+234, mor co yeah cm cm pro int what mod do P ST pro sub she v say 
+235, gra COM LP LINK UX SU J ROOT PUNCT
+236, and I called her because I had sent her a package and I didn t
+237, know if she got it yet which she didn t 
+238, mor coord and pro sub I v call P ST pro obj her conj because pro sub I
+239, aux have P ST part send P STP pro obj her det art a n package cm cm
+240, coord and pro sub I mod do P ST neg not v know conj if pro sub she
+241, v get P ST pro per it adv yet pro rel which pro sub she
+242, mod do P ST neg not 
+243, gra LINK SU J ROOT O J LINK SU J UX
+244, CJCT O J DET O J LP LINK SU J
+245, UX NEG CJCT LINK SU J COMP
+246, O J JCT LINK SU J UX NEG
+247, PUNCT
+248, and I told you all those school things 
+249, mor coord and pro sub I v tell P ST pro per you adv all pro dem those
+250, n school n thing PL 
+251, gra LINK SU J ROOT SU J JCT DET MOD O J
+252, PUNCT
+253, oh yeah 
+254, mor co oh co yeah 
+255, gra COM INCROOT PUNCT
+256, so she didn t get it yet 
+257, mor co so pro sub she mod do P ST neg not v get pro per it adv yet 
+258, gra COM SU J UX NEG ROOT O J JCT PUNCT
+259, and um what did she say 
+260, mor coord and cm cm pro int what mod do P ST pro sub she v say 
+261, gra LINK LP SU J UX SU J ROOT PUNCT
+262, she tried to tell me somethin oh xxx and Heidi 
+263, mor pro sub she v try P ST inf to v tell pro obj me cm cm co oh
+264, coord and n prop Heidi 
+265, gra SU J ROOT INF COMP O J LP ENUM CONJ
+266, COORD PUNCT
+267, what 
+268, mor pro int what 
+269, gra INCROOT PUNCT
+270, smacks lips they as hei they called her they want her to
+271, come for succus s heb 
+272, mor cm cm pro sub they cm cm cm cm pro sub they v call P ST pro obj her
+273, cm cm pro sub they v want pro obj her inf to v come prep for
+274, L succus 
+275, gra LINK SU J LP LP SU J ROOT O J LP
+276, SU J COMP O J INF COMP JCT
+277, PO J PUNCT
+278, because Heidi s afraid that she s going to have to go on xxx 
+279, mor conj because n prop Heidi poss s adj afraid pro rel that
+280, pro sub she aux be S part go PRESP inf to v have inf to v go adv on
+281, 
+282, gra LINK MOD POSS ROOT LINK SU J UX
+283, CMOD INF COMP INF COMP JCT
+284, PUNCT
+285, yeah 
+286, mor co yeah 
+287, gra INCROOT PUNCT
+288, and xxx has to take her he s going to you know move the kids or
+289, whatever 
+290, mor coord and aux have S inf to v take pro obj her
+291, pro sub he aux be S part go PRESP prep to pro per you v know v move
+292, det art the n kid PL coord or pro int whatever 
+293, gra LINK UX INF ROOT O J SU J UX COMP
+294, JCT PO J ENUM COMP DET O J
+295, CONJ COORD PUNCT
+296, and dad doesn t want to go 
+297, mor coord and n dad mod do S neg not v want inf to v go 
+298, gra LINK SU J UX NEG ROOT INF COMP
+299, PUNCT
+300, because he 
+301, mor conj because pro sub he 
+302, gra LINK INCROOT PUNCT
+303, he feels that it s going to be too hard on mom breathes 
+304, mor pro sub he v feel S pro dem that pro per it aux be S
+305, part go PRESP inf to cop be adv too adv hard prep on n mom 
+306, gra SU J ROOT O J SU J UX XJCT INF
+307, COMP JCT PRED JCT PO J PUNCT
+308, but mom said she said to me you know I really feel I should go 
+309, 
+310, mor conj but n mom v say P ST cm cm pro sub she v say P ST prep to
+311, pro obj me cm cm pro per you v know cm cm pro sub I adv real dadj LY
+312, v feel pro sub I mod should v go 
+313, gra LINK SU J CJCT LP SU J ROOT JCT
+314, PO J LP SU J CJCT LP SU J JCT
+315, COMP SU J UX COMP PUNCT
+316, they they re asking me they need me 
+317, mor pro sub they cm cm pro sub they aux be PRES part ask PRESP
+318, pro obj me pro sub they v need pro obj me 
+319, gra SU J LP SU J UX XJCT O J SU J ROOT
+320, O J PUNCT
+321, right 
+322, mor co right 
+323, gra INCROOT PUNCT
+324, and her mother doesn t know until a week before if she can get off
+325, 
+326, mor coord and det poss her n mother mod do S neg not v know prep until
+327, det art a n week adv before conj if pro sub she mod can aux get
+328, adv off 
+329, gra LINK MOD SU J UX NEG ROOT JCT DET
+330, PO J JCT LINK SU J UX COMP
+331, PRED PUNCT
+332, mhm 
+333, mor co yes 
+334, gra INCROOT PUNCT
+335, so 
+336, mor co so 
+337, gra INCROOT PUNCT
+338, and mom s going to go 
+339, mor coord and n mom aux be S part go PRESP inf to v go 
+340, gra LINK SU J UX ROOT INF COMP PUNCT
+341, I don t know I don t know 
+342, mor pro sub I mod do neg not v know cm cm pro sub I mod do neg not
+343, v know 
+344, gra SU J UX NEG ROOT LP SU J UX NEG
+345, COMP PUNCT
+346, what about her cous 
+347, mor pro int what prep about pro obj her 
+348, gra INCROOT JCT PO J PUNCT
+349, xxx 
+350, in that she s always helping out 
+351, mor prep in pro rel that pro sub she aux be S adv always
+352, part help PRESP adv out 
+353, gra INCROOT LINK SU J UX JCT COMP JCT
+354, PUNCT
+355, oh I think Heidi s a total idiot if you ask me 
+356, mor co oh cm cm pro sub I v think n prop Heidi poss s det art a n total
+357, n idiot conj if pro per you v ask pro obj me 
+358, gra COM LP SU J ROOT MOD POSS DET MOD
+359, O J LINK SU J CJCT O J PUNCT
+360, I mean when when we were going to your barmitzva s heb remember 
+361, 
+362, mor pro sub I v mean cm cm adv int when conj when pro sub we
+363, aux be P ST part go PRESP prep to det poss your L barmitzva
+364, v remember 
+365, gra SU J ROOT LP LINK LINK SU J UX
+366, CJCT JCT MOD SU J CJCT PUNCT
+367, yeah 
+368, mor co yeah 
+369, gra INCROOT PUNCT
+370, so I said xxx why j don t just you and Han fly 
+371, mor co so pro sub I v say P ST adv int why mod do neg not cm cm
+372, adv just pro per you coord and n prop Han n fly 
+373, gra COM SU J ROOT O J UX NEG LP JCT
+374, O J CONJ MOD COORD PUNCT
+375, she says well what about the kids I said Heidi you took your
+376, cousin kids all five of them why can t you leave xxx wasn t there
+377, 
+378, mor pro sub she v say S adv well det int what prep about det art the
+379, n kid PL cm cm pro sub I v say P ST n prop Heidi cm cm pro per you
+380, v take P ST det poss your n cousin n kid PL cm cm adv all
+381, det num five prep of pro obj them cm cm adv int why mod can neg not
+382, pro per you v leave cop be P ST S neg not adv there 
+383, gra SU J ROOT JCT XJCT JCT DET PO J
+384, LP SU J ENUM O J LP SU J CJCT
+385, MOD MOD O J LP JCT COMP
+386, JCT PO J LP LINK UX NEG
+387, SU J CJCT O J NEG JCT PUNCT
+388, xxx 
+389, I said why can t you leave the other ones 
+390, mor pro sub I v say P ST adv int why mod can neg not pro per you
+391, v leave det art the qn other pro indef one PL 
+392, gra SU J ROOT LINK UX NEG SU J COMP
+393, DET QU NT O J PUNCT
+394, she said um she said well it s a very hard time for her now
+395, because her husband s starting school 
+396, mor pro sub she v say P ST cm cm pro sub she v say P ST cm cm adv well
+397, pro per it cop be S det art a adv very adj hard n time prep for
+398, pro obj her adv now conj because det poss her n husband aux be S
+399, part start PRESP n school 
+400, gra SU J ROOT LP SU J CJCT LP JCT SU J
+401, CJCT DET JCT MOD PRED JCT PO J
+402, JCT LINK MOD SU J UX CJCT
+403, O J PUNCT
+404, I said so what isn t it always a hard time for everybody 
+405, mor pro sub I v say P ST conj so pro int what cop be S neg not
+406, pro per it adv always det art a adj hard n time prep for
+407, pro indef everybody 
+408, gra SU J ROOT LINK SU J COMP NEG PRED
+409, JCT DET MOD PO J NJCT PO J
+410, PUNCT
+411, I don t know 
+412, mor pro sub I mod do neg not v know 
+413, gra SU J UX NEG ROOT PUNCT
+414, breathes 
+415, mhm 
+416, mor co yes 
+417, gra INCROOT PUNCT
+418, she always takes them happily and breathes and and yeah I know
+419, her cousin Havi s not Havi would take them 
+420, mor pro sub she adv always v take S pro obj them cm cm
+421, adv happy dadj LY cm cm coord and coord and coord and co yeah
+422, pro sub I v know det poss her n cousin cm cm n prop Havi poss s
+423, neg not cm cm n prop Havi mod will COND v take pro obj them 
+424, gra SU J JCT ROOT O J LP JCT LP CONJ
+425, COORD CONJ COM SU J COORD MOD
+426, O J LP ENUM POSS NEG LP
+427, SU J UX COMP O J PUNCT
+428, she s got something against asking it I don t know 
+429, mor pro sub she aux be S v get P ST pro indef something prep against
+430, part ask PRESP pro per it cm cm pro sub I mod do neg not v know 
+431, gra SU J UX ROOT O J JCT PO J O J LP
+432, SU J UX NEG CJCT PUNCT
+433, breathes it s all the same 
+434, mor pro per it cop be S qn all det art the adj same 
+435, gra SU J ROOT QU NT DET PRED PUNCT
+436, it s her business not mine 
+437, mor pro per it cop be S pro obj her n business cm cm neg not
+438, pro poss mine 
+439, gra SU J ROOT MOD PRED LP NEG ENUM
+440, PUNCT
+441, I thought maam doesn t want to go dad doesn t want to go 
+442, mor pro sub I v think P ST n maam mod do S neg not v want inf to v go
+443, cm cm n dad mod do S neg not v want inf to v go 
+444, gra SU J ROOT SU J UX NEG COMP INF
+445, COMP LP SU J UX NEG COMP INF
+446, COMP PUNCT
+447, um dad doesn t want to go 
+448, mor n dad mod do S neg not v want inf to v go 
+449, gra SU J UX NEG ROOT INF COMP PUNCT
+450, he never wants to go 
+451, mor pro sub he adv never v want S inf to v go 
+452, gra SU J JCT ROOT INF COMP PUNCT
+453, I know 
+454, mor pro sub I v know 
+455, gra SU J ROOT PUNCT
+456, xxx is just a he probably will be hurt for mom but that has noth
+457, cut short 
+458, mor cop be S adv just det art a pro sub he adv probable dadj LY
+459, mod will cop be part hurt P STP prep for n mom cm cm conj but
+460, pro dem that aux have S 
+461, gra ROOT JCT DET SU J JCT UX PUNCT
+462, PRED JCT PO J LP LINK SU J ROOT
+463, PUNCT
+464, well I said to mum I said well I m sur you know Heidi she has
+465, everything all ready and set 
+466, mor co well pro sub I v say P ST prep to adj mum cm cm pro sub I
+467, v say P ST adv well pro sub I aux be S cm cm pro per you v know
+468, n prop Heidi cm cm pro sub she aux have S pro indef everything
+469, adv all adj ready coord and v set ZERO 
+470, gra COM SU J CJCT JCT PO J LP SU J ROOT
+471, JCT SU J UX LP SU J COMP O J
+472, LP SU J UX CJCT JCT POSTMOD
+473, CONJ COORD PUNCT
+474, you know so she says no she hasn t been feeling so well lately 
+475, 
+476, mor pro per you v know cm cm conj so pro sub she v say S cm cm qn no
+477, cm cm pro sub she aux have S neg not aux be P STP part feel PRESP
+478, adv so adv well adv late dadj LY 
+479, gra SU J ROOT LP LINK SU J CJCT LP
+480, ENUM LP SU J UX NEG UX COMP
+481, JCT JCT JCT PUNCT
+482, she been feeling very heavy I don t think she has anything really
+483, prepared 
+484, mor pro sub she aux be P STP part feel PRESP adv very adj heavy cm cm
+485, pro sub I mod do neg not v think pro sub she aux have S
+486, pro indef anything adv real dadj LY v prepare P ST 
+487, gra SU J UX XJCT JCT PRED LP SU J
+488, UX NEG ROOT SU J UX SU J JCT
+489, COMP PUNCT
+490, breathes 
+491, mhm 
+492, mor co yes 
+493, gra INCROOT PUNCT
+494, well I said maybe if you you know mentioned it to her 
+495, mor co well pro sub I v say P ST adv maybe conj if pro per you cm cm
+496, pro per you v know cm cm v mention P ST pro per it prep to
+497, pro obj her 
+498, gra COM SU J ROOT JCT LINK XJCT LP SU J
+499, CJCT LP ENUM O J JCT PO J PUNCT
+500, to prepare it all I mean she s home now all day without anything 
+501, 
+502, mor inf to v prepare pro per it adv all pro sub I v mean
+503, pro sub she aux be S adv home adv now qn all n day prep without
+504, pro indef anything 
+505, gra INF ROOT O J JCT SU J CJCT SU J
+506, COMP JCT JCT QU NT JCT JCT PO J
+507, PUNCT
+508, the kids are gone from nine to four 
+509, mor det art the n kid PL cop be PRES part go P STP prep from
+510, det num nine prep to det num four 
+511, gra DET SU J ROOT PRED JCT PO J JCT
+512, PO J PUNCT
+513, I m sure she s preparing 
+514, mor pro sub I aux be S adv sure pro sub she aux be S
+515, part prepare PRESP 
+516, gra SU J UX JCT SU J UX ROOT PUNCT
+517, I I think so too but 
+518, mor pro sub I pro sub I v think conj so adv too conj but 
+519, gra SU J SU J ROOT O J JCT OM PUNCT
+520, or if she didn t she s waiting for this week to do it 
+521, mor coord or conj if pro sub she mod do P ST neg not
+522, pro sub she aux be S part wait PRESP prep for pro dem this n week
+523, inf to v do pro per it 
+524, gra LINK LINK SU J UX NEG SU J UX
+525, ROOT JCT DET PO J INF XJCT O J
+526, PUNCT
+527, I think so too it s not like her not to be 
+528, mor pro sub I v think conj so adv too pro per it cop be S neg not
+529, v like pro obj her neg not inf to cop be 
+530, gra SU J ROOT LINK JCT SU J COMP NEG
+531, PRED O J NEG INF COMP PUNCT
+532, she no uh yeah it s not like her especially if she s leaving
+533, mom alone she really doesn t want mom pochkying n around that much 
+534, 
+535, mor pro sub she co yeah pro per it cop be S neg not v like pro obj her
+536, adv especial dadj LY conj if pro sub she aux be S part leave PRESP
+537, n mom adv alone pro sub she adv real dadj LY mod do S neg not
+538, v want n mom neo pochkying prep around pro dem that qn much 
+539, gra SU J COM SU J ROOT NEG PRED O J JCT
+540, LINK SU J UX CJCT O J POSTMOD
+541, SU J JCT UX NEG COMP SU J
+542, COMP JCT DET PO J PUNCT
+543, mm 
+544, she likes to do her things her way 
+545, mor pro sub she v like S inf to v do det poss her n thing PL
+546, det poss her n way 
+547, gra SU J ROOT INF COMP MOD O J MOD O J
+548, PUNCT
+549, End
+550,

@@ -1,0 +1,691 @@
+,0
+0,ID eng eng Subject 
+1, Media audio
+2, it was very stressful when it snowed kitchen noise 
+3, mor pro per it cop be P ST S adv very adj stress dn FULL conj when
+4, pro per it v snow P ST 
+5, gra SU J ROOT JCT PRED LINK SU J CJCT
+6, PUNCT
+7, yeah 
+8, mor co yeah 
+9, gra INCROOT PUNCT
+10, so anyways but um 
+11, mor co so adv anyways cm cm conj but 
+12, gra COM JCT LP ROOT PUNCT
+13, no 
+14, mor co no 
+15, gra INCROOT PUNCT
+16, but so Jacob is sound asleep baby talking 
+17, mor conj but co so n prop Jacob cop be S adj sound adv asleep 
+18, gra LINK COM SU J ROOT PRED JCT PUNCT
+19, yeah 
+20, mor co yeah 
+21, gra INCROOT PUNCT
+22, Rachel is previous word distorted Rachel is crawling around
+23, the kitchen breathes and Doug s making pumpkin cookies 
+24, mor n prop Rachel cop be S n prop Rachel aux be S part crawl PRESP
+25, prep around det art the n kitchen coord and n prop Doug aux be S
+26, part make PRESP n pumpkin n cookie PL 
+27, gra SU J ROOT SU J UX PRED JCT DET
+28, PO J LINK SU J UX CJCT MOD
+29, O J PUNCT
+30, oh boy 
+31, mor co oh n boy 
+32, gra COM INCROOT PUNCT
+33, and I m making spaghetti sauce 
+34, mor coord and pro sub I aux be S part make PRESP n spaghetti n sauce 
+35, gra LINK SU J UX ROOT MOD O J PUNCT
+36, oh boy aren t we just the happy family yeah Sarah s on the floor
+37, here 
+38, mor co oh n boy cm cm aux be PRES neg not pro sub we adv just
+39, det art the adj happy n family co yeah n prop Sarah cop be S
+40, prep on det art the n floor adv here 
+41, gra COM JCT LP ENUM NEG SU J JCT
+42, DET MOD SU J COM SU J ROOT
+43, JCT DET PO J JCT PUNCT
+44, playing with the phone cord hopefully she doesn t pull the phone
+45, off 
+46, mor part play PRESP prep with det art the n phone n cord cm cm
+47, adv hope dadj FULL LY pro sub she mod do S neg not v pull
+48, det art the n phone adv off 
+49, gra XJCT JCT DET MOD PO J LP JCT
+50, SU J UX NEG ROOT DET O J JCT
+51, PUNCT
+52, laughs 
+53, down breathes now is is Rachel running around yet or 
+54, mor adv down adv now cop be S cop be S n prop Rachel part run PRESP
+55, adv around adv yet cm cm coord or 
+56, gra JCT JCT ROOT PUNCT PRED XMOD JCT
+57, JCT LP CONJ COORD
+58, she s pulling herself up 
+59, mor pro sub she aux be S part pull PRESP pro refl herself adv up 
+60, gra SU J UX ROOT O J JCT PUNCT
+61, yeah 
+62, mor co yeah 
+63, gra INCROOT PUNCT
+64, and that type of thing and she can crawl wherever she wants and
+65, her latest 
+66, mor coord and pro dem that n type prep of n thing cm cm coord and
+67, pro sub she n can n crawl adv int wherever pro sub she v want S
+68, coord and det poss her adj late SP 
+69, gra LINK DET INCROOT NJCT PO J LP LINK
+70, SU J MOD PP LINK SU J CMOD
+71, CONJ MOD COORD PUNCT
+72, thing is that she gets up we have blankets on our we have a fire
+73, place baby noise so 
+74, mor n thing cop be S pro rel that pro sub she v get S prep up
+75, pro sub we v have n blanket PL prep on det poss our cm cm pro sub we
+76, v have det art a n fire n place adv so 
+77, gra SU J ROOT LINK SU J PRED JCT SU J
+78, PO J O J JCT PO J LP SU J CJCT
+79, DET MOD O J JCT PUNCT
+80, right 
+81, mor co right 
+82, gra INCROOT PUNCT
+83, you know the the brick area 
+84, mor pro per you v know det art the det art the n brick n area 
+85, gra SU J ROOT DET DET MOD O J PUNCT
+86, yeah 
+87, mor co yeah 
+88, gra INCROOT PUNCT
+89, she gets up there with 
+90, mor pro sub she v get S prep up adv there cm cm prep with 
+91, gra SU J ROOT JCT PO J LP JCT PUNCT
+92, breathes 
+93, it s all covered with blankets and then she pulls herself up on
+94, the um the 
+95, mor pro per it cop be S adv all part cover P STP prep with
+96, n blanket PL cm cm coord and adv tem then pro sub she v pull S
+97, pro refl herself adv up prep on det art the cm cm det art the 
+98, gra SU J ROOT JCT PRED JCT PO J LP CONJ
+99, JCT SU J COORD O J JCT JCT
+100, DET LP PO J PUNCT
+101, smacks lips breathes I don t know what you call it the
+102, fireplace guard thing 
+103, mor pro sub I mod do neg not v know pro int what pro per you v call
+104, pro per it cm cm det art the n n fire n place n guard n thing 
+105, gra SU J UX NEG ROOT LINK SU J COMP
+106, O J LP DET MOD MOD O J PUNCT
+107, xxx 
+108, and she stands up there and she kind of bounces her knees and she
+109, laughs 
+110, mor coord and pro sub she v stand S adv up adv there coord and
+111, pro sub she n kind prep of v bounce S det poss her n knee PL
+112, coord and pro sub she v laugh S 
+113, gra LINK SU J ROOT JCT JCT CONJ COORD
+114, O J NJCT PO J MOD O J LINK SU J
+115, CJCT PUNCT
+116, because she thinks she s doing something really cool but that s
+117, about the extent clanking pots 
+118, mor conj because pro sub she v think S pro sub she aux be S
+119, part do PRESP pro indef something adv real dadj LY adj cool conj but
+120, pro dem that cop be S prep about det art the n extent 
+121, gra LINK SU J CJCT SU J UX ROOT O J
+122, JCT POSTMOD LINK SU J CJCT JCT
+123, DET PO J PUNCT
+124, ah 
+125, of her you know clanking pots 
+126, mor prep of pro obj her cm cm pro per you v know 
+127, gra LINK PO J LP SU J ROOT PUNCT
+128, well how old is she now she s 
+129, mor co well adv int how adj old aux be S pro sub she adv now
+130, pro sub she cop be S 
+131, gra COM LINK SU J UX SU J JCT SU J
+132, ROOT PUNCT
+133, clattering pots 
+134, ten months 
+135, mor det num ten n month PL 
+136, gra QU NT INCROOT PUNCT
+137, she s okay she s a month older then 
+138, mor pro sub she cop be S adj okay cm cm pro sub she cop be S
+139, det art a n month adj old CP adv tem then 
+140, gra SU J ROOT PRED LP SU J CJCT DET
+141, PRED POSTMOD JCT PUNCT
+142, just a month older so she s probably doing the same thing your
+143, daughter is doing clattering pots crying baby 
+144, mor adv just det art a n month adj old CP cm cm conj so
+145, pro sub she cop be S adv probable dadj LY part do PRESP det art the
+146, adj same n thing det poss your n daughter aux be S part do PRESP 
+147, gra JCT DET INCROOT POSTMOD LP LINK SU J
+148, CJCT JCT XJCT DET MOD O J MOD
+149, SU J UX CMOD PUNCT
+150, yeah yeah Sarah s yeah crawling around anywhere she wants and 
+151, 
+152, mor co yeah cm cm co yeah cm cm n prop Sarah poss s co yeah cm cm
+153, part crawl PRESP adv around adv anywhere pro sub she v want S
+154, coord and 
+155, gra COM LP ENUM LP MOD POSS COM LP
+156, XJCT JCT JCT SU J ROOT CONJ
+157, PUNCT
+158, yup clattering pots 
+159, mor co yup 
+160, gra INCROOT PUNCT
+161, pulling up and standing up and she has let off a couple times 
+162, mor part pull PRESP adv up coord and part stand PRESP adv up coord and
+163, pro sub she aux have S part let P STP prep off det art a n couple
+164, n time PL 
+165, gra INCROOT JCT CONJ COORD JCT LINK SU J
+166, UX CJCT JCT DET MOD PO J PUNCT
+167, pot clatter 
+168, and stood still and then she laughed 
+169, mor coord and v stand P ST adj still coord and adv tem then pro sub she
+170, v laugh P ST 
+171, gra LINK ROOT JCT CONJ JCT SU J COORD
+172, PUNCT
+173, yup 
+174, mor co yup 
+175, gra INCROOT PUNCT
+176, thinks it s hilarious 
+177, mor v think S pro per it aux be S adj hilarious 
+178, gra ROOT SU J COMP PRED PUNCT
+179, xxx like when I go somewhere and I put her down to take off her
+180, coat she doesn t want to sit down so she just stands there 
+181, mor co like conj when pro sub I v go n somewhere coord and pro sub I
+182, v put ZERO pro obj her adv down inf to v take prep off det poss her
+183, n coat cm cm pro sub she mod do S neg not v want inf to v sit
+184, adv down cm cm conj so pro sub she adv just v stand S adv there 
+185, gra COM LINK SU J CJCT O J LINK SU J
+186, ROOT O J JCT INF COMP JCT MOD
+187, PO J LP SU J UX NEG COMP
+188, INF COMP JCT LP LINK SU J
+189, JCT CJCT JCT PUNCT
+190, uhhuh 
+191, mor co uhhuh 
+192, gra INCROOT PUNCT
+193, till she falls 
+194, mor n till pro sub she v fall S 
+195, gra INCROOT SU J CMOD PUNCT
+196, oh high pitched 
+197, mor co oh 
+198, gra INCROOT PUNCT
+199, but um xxx don t you pot clatter 
+200, mor conj but cm cm mod do neg not pro per you 
+201, gra LINK LP UX NEG ROOT PUNCT
+202, laughs 
+203, breathes 
+204, do you find that she she 
+205, mor mod do pro per you v find pro rel that pro sub she pro sub she 
+206, gra UX SU J ROOT LINK SU J COMP PUNCT
+207, duck baby gurgle 
+208, mor n duck 
+209, gra INCROOT PUNCT
+210, understanding everything you say basically 
+211, mor part understand PRESP pro indef everything pro per you v say
+212, adv basic dadj L LY 
+213, gra XJCT O J SU J ROOT JCT PUNCT
+214, baby noises 
+215, I 
+216, mor pro sub I 
+217, gra INCROOT PUNCT
+218, I mean 
+219, mor pro sub I v mean 
+220, gra SU J ROOT PUNCT
+221, think she does and when it tur her name is being spoken she
+222, like turns and 
+223, mor v think pro sub she v do S cm cm coord and conj when pro per it
+224, det poss her n name cop be S part be PRESP part speak P STP cm cm
+225, pro sub she v like n turn PL coord and 
+226, gra LINK SU J ROOT LP LINK LINK SU J
+227, MOD SU J CJCT PRED PRED LP
+228, SU J CJCT O J CONJ PUNCT
+229, yeah phone cord noise 
+230, mor co yeah 
+231, gra INCROOT PUNCT
+232, yeah 
+233, mor co yeah 
+234, gra INCROOT PUNCT
+235, breathes looks and 
+236, mor cop look S coord and 
+237, gra ROOT PRED PUNCT
+238, Sarah knows no 
+239, mor n prop Sarah v know S co no 
+240, gra SU J ROOT O J PUNCT
+241, there s 
+242, mor pro exist there aux be S 
+243, gra SU J ROOT PUNCT
+244, I don t know if sighs Rachel knows no pot she doesn t like
+245, to act like she does 
+246, mor pro sub I mod do neg not v know conj if n prop Rachel v know S
+247, co no pro sub she mod do S neg not co like inf to n act co like
+248, pro sub she v do S 
+249, gra SU J UX NEG ROOT LINK SU J COMP
+250, COM SU J UX NEG COM INF
+251, XJCT COM SU J COMP PUNCT
+252, well she looks at you and then laughs 
+253, mor co well pro sub she cop look S prep at pro per you coord and
+254, adv tem then n laugh PL 
+255, gra COM SU J ROOT JCT PO J CONJ MOD
+256, COORD PUNCT
+257, breathes like laughs 
+258, mor prep like 
+259, gra INCROOT PUNCT
+260, breathes laughs 
+261, laughs you don t have to do this pots clattering 
+262, mor pro per you mod do neg not v have inf to v do pro dem this 
+263, gra SU J UX NEG ROOT INF COMP O J
+264, PUNCT
+265, yep 
+266, mor co yep 
+267, gra INCROOT PUNCT
+268, so 
+269, mor co so 
+270, gra INCROOT PUNCT
+271, yeah there it s a really I think it s a pretty funny
+272, spoon banging on side of pot 
+273, mor co yeah adv there cm cm pro per it cop be S det art a
+274, adv real dadj LY cm cm pro sub I v think pro per it cop be S
+275, det art a adj pretty adj fun dn Y 
+276, gra COM JCT LP SU J ROOT DET JCT LP
+277, SU J PRED SU J COMP DET MOD
+278, PRED PUNCT
+279, breathes yeah she it and Jacob just loves her 
+280, mor co yeah pro sub she cm cm pro per it coord and n prop Jacob
+281, adv just v love S pro obj her 
+282, gra COM SU J LP SU J LINK SU J JCT ROOT
+283, O J PUNCT
+284, these are all 
+285, mor pro dem these cop be PRES pro indef all 
+286, gra SU J ROOT PRED PUNCT
+287, Tom yes yes it certainly is man speaking in background 
+288, mor n prop Tom co yes cm cm co yes cm cm pro per it adv certain dadj LY
+289, cop be S 
+290, gra SU J COM LP ENUM LP SU J JCT ROOT
+291, PUNCT
+292, it s either it s a love hate relationship 
+293, mor pro per it cop be S adv either cm cm pro per it cop be S
+294, det art a n love n hate n relationship 
+295, gra SU J ROOT JCT LP SU J CJCT DET
+296, MOD MOD PRED PUNCT
+297, man s voice 
+298, so 
+299, mor co so 
+300, gra INCROOT PUNCT
+301, xxx 
+302, because it s so precious 
+303, mor conj because pro per it cop be S adv so adj precious 
+304, gra LINK SU J ROOT JCT PRED PUNCT
+305, Sarah I love you and then the next minute it s like Sarah Sarah I
+306, told you no 
+307, mor n prop Sarah cm cm pro sub I v love pro per you coord and
+308, adv tem then det art the adj next n minute pro per it cop be S
+309, conj like n prop Sarah n prop Sarah cm cm pro sub I v tell P ST
+310, pro per you co no 
+311, gra LINK LP SU J ROOT O J LINK JCT
+312, DET MOD SU J SU J CJCT LINK
+313, MOD JCT LP SU J CJCT O J
+314, COM PUNCT
+315, man s voice 
+316, man s voice 
+317, laughs knocking noise 
+318, it s mine 
+319, mor pro per it aux be S pro poss mine 
+320, gra SU J ROOT PRED PUNCT
+321, laughs yes 
+322, mor co yes 
+323, gra INCROOT PUNCT
+324, breathes so 
+325, mor co so 
+326, gra INCROOT PUNCT
+327, well my kids are just a little bit older so
+328, baby in background 
+329, mor adv well det poss my v kid S aux be PRES adv just det art a
+330, adj little n bit adj old CP cm cm co so 
+331, gra JCT MOD ROOT O J JCT DET MOD JCT
+332, PRED LP ENUM PUNCT
+333, it s like mom she s in my things or 
+334, mor pro per it aux be S co like n mom cm cm pro sub she cop be S
+335, prep in det poss my n thing PL cm cm coord or 
+336, gra SU J UX COM JCT LP SU J ROOT JCT
+337, MOD PO J LP ENUM PUNCT
+338, yeah 
+339, mor co yeah 
+340, gra INCROOT PUNCT
+341, child s voice saying where s my library book mommy 
+342, Carl I don t know what you did with your library book look by the
+343, couch 
+344, mor n prop Carl cm cm pro sub I mod do neg not v know pro int what
+345, pro per you v do P ST prep with det poss your n library n book
+346, cop look prep by det art the n couch 
+347, gra LINK LP SU J UX NEG ROOT LINK SU J
+348, COMP JCT MOD MOD SU J CJCT
+349, JCT DET PO J PUNCT
+350, I m on the phone 
+351, mor pro sub I cop be S prep on det art the n phone 
+352, gra SU J ROOT JCT DET PO J PUNCT
+353, breathes 
+354, man s voice 
+355, ow 
+356, mor co ow 
+357, gra INCROOT PUNCT
+358, w we went out 
+359, mor pro sub we v go P ST adv out 
+360, gra SU J ROOT JCT PUNCT
+361, breathes 
+362, today we echo 
+363, mor adv tem today pro sub we 
+364, gra INCROOT SU J PUNCT
+365, where did you go baby crying 
+366, mor adv int where mod do P ST pro per you v go 
+367, gra LINK UX SU J ROOT PUNCT
+368, we went up the street breathes 
+369, mor pro sub we v go P ST adv up det art the n street 
+370, gra SU J ROOT JCT DET O J PUNCT
+371, baby crying 
+372, breathes they have there s a like a little strip of 
+373, mor pro sub they v have cm cm pro exist there cop be S det art a
+374, co like det art a adj little n strip prep of 
+375, gra SU J ROOT LP SU J COMP DET COM
+376, DET MOD PRED NJCT PUNCT
+377, uh stores now that have opened 
+378, mor n store PL adv now pro rel that aux have part open P STP 
+379, gra INCROOT JCT LINK UX CMOD PUNCT
+380, one is a barber shop one is a 
+381, mor pro indef one cop be S det art a n barber n shop cm cm
+382, pro indef one cop be S det art a 
+383, gra SU J ROOT DET MOD PRED LP SU J CMOD
+384, PRED PUNCT
+385, african shop that s got stuff in it and then another one is a
+386, thrift shop 
+387, mor adj african n shop pro rel that aux be S v get P ST n stuff
+388, prep in pro per it cm cm coord and adv tem then qn another
+389, pro indef one cop be S det art a n thrift n shop 
+390, gra MOD INCROOT LINK UX CMOD O J JCT
+391, PO J LP LINK JCT QU NT SU J
+392, CJCT DET MOD PRED PUNCT
+393, kitchen noise 
+394, unhunh 
+395, mor co no 
+396, gra INCROOT PUNCT
+397, so I went to the thrift shop 
+398, mor co so pro sub I v go P ST prep to det art the n thrift n shop 
+399, gra COM SU J ROOT JCT DET MOD PO J
+400, PUNCT
+401, huh clattering pot 
+402, and 
+403, mor coord and 
+404, gra INCROOT PUNCT
+405, baby 
+406, Jacob needed some new mittens so I got a pair of gloves for him 
+407, 
+408, mor n prop Jacob v need P ST qn some adj new n mitten PL cm cm conj so
+409, pro sub I v get P ST det art a n pair prep of n glove PL prep for
+410, pro obj him 
+411, gra SU J ROOT QU NT MOD O J LP LINK
+412, SU J CJCT DET O J NJCT PO J JCT
+413, PO J PUNCT
+414, baby 
+415, one of those Fischer price radios you know 
+416, mor det num one prep of pro dem those n prop Fischer n price v radio S
+417, pro per you v know 
+418, gra SU J JCT DET MOD PO J ROOT SU J
+419, COMP PUNCT
+420, yup 
+421, mor co yup 
+422, gra INCROOT PUNCT
+423, and something else he found some it s a toy well anyway 
+424, mor coord and pro indef something post else pro sub he v find P ST
+425, cm cm qn some pro per it cop be S det art a n toy cm cm n well
+426, adv anyway 
+427, gra LINK O J PQ SU J ROOT LP QU NT SU J
+428, CJCT DET PRED LP ENUM JCT
+429, PUNCT
+430, all for two dollars metallic noise 
+431, mor pro indef all prep for det num two n dollar PL 
+432, gra INCROOT NJCT QU NT PO J PUNCT
+433, alright 
+434, mor co alright 
+435, gra INCROOT PUNCT
+436, yeah 
+437, mor co yeah 
+438, gra INCROOT PUNCT
+439, that is a deal I got we had um clanging pots 
+440, mor pro dem that cop be S det art a n deal pro sub I v get P ST cm cm
+441, pro sub we v have P ST 
+442, gra SU J ROOT DET PRED SU J CMOD LP
+443, SU J CJCT PUNCT
+444, I got the fisher price tape recorder one the kids you know the
+445, older kids were pots 
+446, mor pro sub I v get P ST det art the n fish dv GT n price n tape
+447, n record dv GT pro indef one det art the n kid PL cm cm pro per you
+448, v know det art the adj old CP n kid PL cop be P ST 
+449, gra SU J ROOT DET MOD MOD MOD O J XMOD
+450, DET O J LP SU J CMOD DET MOD
+451, SU J COMP PUNCT
+452, small at this place called building nineteen four fifty still
+453, works we still have it pots 
+454, mor adj small cm cm prep at pro dem this n place v call P ST n building
+455, det num nineteen cm cm det num four det num fifty adv still
+456, n work PL cm cm pro sub we adv still v have pro per it 
+457, gra INCROOT LP JCT DET PO J CPO J MOD
+458, QU NT LP D TE QU NT JCT O J LP
+459, SU J JCT ENUM O J PUNCT
+460, uhhuh kitchen noise well this one I want to get for Jacob I
+461, think for christmas 
+462, mor co uhhuh n well pro dem this pro indef one pro sub I v want inf to
+463, v get prep for n prop Jacob pro sub I v think prep for n christmas 
+464, gra COM JCT DET JCT SU J COMP INF COMP
+465, JCT PO J SU J ROOT JCT PO J
+466, PUNCT
+467, uhhuh 
+468, mor co uhhuh 
+469, gra INCROOT PUNCT
+470, because he loves breathes mechanical stuff kitchen 
+471, mor conj because pro sub he v love S adj mechanic L n stuff 
+472, gra LINK SU J ROOT MOD O J PUNCT
+473, yeah 
+474, mor co yeah 
+475, gra INCROOT PUNCT
+476, and I mean he s playing with my stereo here that we had in college
+477, you know 
+478, mor coord and pro sub I v mean pro sub he aux be S part play PRESP
+479, prep with det poss my n stereo adv here pro rel that pro sub we
+480, v have P ST prep in n college pro per you v know 
+481, gra LINK SU J ROOT SU J UX COMP JCT
+482, MOD PO J JCT LINK SU J CJCT JCT
+483, PO J SU J COMP PUNCT
+484, yeah 
+485, mor co yeah 
+486, gra INCROOT PUNCT
+487, and he s he he just plays with it 
+488, mor coord and pro sub he aux be S pro sub he pro sub he adv just
+489, v play S prep with pro per it 
+490, gra LINK SU J LINK SU J SU J JCT ROOT
+491, JCT PO J PUNCT
+492, mhm 
+493, mor co yes 
+494, gra INCROOT PUNCT
+495, you know and has broken it but 
+496, mor pro per you v know cm cm coord and aux have S part break P STP
+497, pro per it conj but 
+498, gra SU J ROOT LP CONJ UX COORD O J JCT
+499, PUNCT
+500, breathes it still works 
+501, mor pro per it adv still n work PL 
+502, gra SU J JCT INCROOT PUNCT
+503, laughs oh well 
+504, mor co oh co well 
+505, gra COM INCROOT PUNCT
+506, but um if he could have his own then I could say you know 
+507, that s yours you you play with that one then 
+508, mor conj but cm cm conj if pro sub he mod could v have det poss his
+509, adj own cm cm adv tem then pro sub I mod could v say cm cm
+510, pro per you v know cm cm pro rel that aux be S pro poss yours
+511, pro per you pro per you v play prep with pro dem that pro indef one
+512, adv tem then 
+513, gra INCROOT LP LINK SU J UX CJCT MOD
+514, JCT LP JCT SU J UX ENUM LP
+515, SU J COMP LP LINK UX COMP
+516, SU J SU J COMP JCT DET SU J
+517, JCT PUNCT
+518, yup yup 
+519, mor co yup cm cm co yup 
+520, gra INCROOT LP ENUM PUNCT
+521, so I think I might look for one like that 
+522, mor co so pro sub I v think pro sub I mod might v look prep for
+523, pro indef one prep like pro dem that 
+524, gra COM SU J ROOT SU J UX COMP JCT
+525, PO J NJCT PO J PUNCT
+526, hm well that sounds good 
+527, mor cm cm n well pro rel that v sound S adj good 
+528, gra INCROOT ENUM LINK CMOD JCT PUNCT
+529, so yeah 
+530, mor co so co yeah 
+531, gra COM INCROOT PUNCT
+532, yeah we um 
+533, mor co yeah cm cm pro sub we 
+534, gra INCROOT LP ENUM PUNCT
+535, Carl Carl wants um a baseball mitt he says for smacks lips 
+536, for christmas we were at 
+537, mor n prop Carl cm cm n prop Carl v want S det art a n baseball n mitt
+538, cm cm pro sub he v say S prep for cm cm prep for n christmas cm cm
+539, pro sub we cop be P ST prep at 
+540, gra LINK LP SU J ROOT DET MOD O J LP
+541, SU J CJCT JCT LP JCT PO J LP
+542, SU J CPO J JCT PUNCT
+543, um Toys R Us or something and he says he wants a baseball mitt 
+544, and so then then we get back in the car 
+545, mor n prop Toys R Us coord or pro indef something coord and pro sub he
+546, v say S pro sub he v want S det art a n baseball n mitt cm cm
+547, coord and adv so adv tem then adv tem then pro sub we v get adv back
+548, prep in det art the n car 
+549, gra SU J CONJ COORD CONJ COORD ROOT SU J
+550, COMP DET MOD O J LP CONJ JCT
+551, JCT COORD SU J CJCT JCT JCT
+552, DET PO J PUNCT
+553, we re driving home and he goes mom you won t believe our backyard
+554, this summer we re going to make I m going to make a baseball
+555, field I m going to make bleachers 
+556, mor pro sub we aux be PRES part drive PRESP n home cm cm coord and
+557, pro sub he v go S n mom cm cm pro per you mod will neg not
+558, v believe det poss our n n back n yard pro dem this n summer cm cm
+559, pro sub we aux be PRES part go PRESP inf to v make cm cm
+560, pro sub I aux be S part go PRESP inf to v make det art a n baseball
+561, n field cm cm pro sub I aux be S part go PRESP inf to v make
+562, n bleach dv GT PL cm cm 
+563, gra SU J UX ROOT JCT LP LINK SU J CJCT
+564, O J LP SU J UX NEG CMOD MOD
+565, O J DET PP LP SU J UX
+566, COMP INF COMP LP SU J UX
+567, XJCT INF COMP DET MOD O J
+568, LP SU J UX CMOD INF COMP
+569, O J LP PUNCT
+570, laughs 
+571, breathes I m going to get 
+572, mor pro sub I aux be S part go PRESP inf to v get 
+573, gra SU J UX ROOT INF COMP PUNCT
+574, bleachers laughs 
+575, mor n bleach dv GT PL 
+576, gra INCROOT PUNCT
+577, I m going to get hats and I m going to get pants and I am going
+578, to sell them 
+579, mor pro sub I aux be S part go PRESP inf to v get n hat PL cm cm
+580, coord and pro sub I aux be S part go PRESP inf to v get v pant S
+581, cm cm coord and pro sub I aux be S part go PRESP inf to v sell
+582, pro obj them 
+583, gra SU J UX ROOT INF COMP PRED LP
+584, LINK SU J UX CJCT INF COMP
+585, PRED LP LINK SU J UX XJCT
+586, INF COMP O J PUNCT
+587, so then he s telling me all the things that he s going to sell and
+588, I m like Carl are you going to play baseball or are you going to
+589, sell 
+590, mor co so adv tem then pro sub he aux be S part tell PRESP pro obj me
+591, adv all det art the n thing PL pro rel that pro sub he aux be S
+592, part go PRESP inf to v sell coord and pro sub I aux be S v like
+593, n prop Carl cm cm aux be PRES pro per you part go PRESP inf to
+594, n play n baseball coord or aux be PRES pro per you part go PRESP
+595, inf to v sell 
+596, gra COM JCT SU J UX ROOT O J JCT DET
+597, O J LINK SU J UX CMOD INF
+598, COMP LINK SU J UX COMP SU J
+599, LP UX SU J COMP INF MOD
+600, O J CONJ COORD O J XMOD INF
+601, COMP PUNCT
+602, laughs he s in 
+603, mor pro sub he cop be S prep in cm cm 
+604, gra SU J ROOT JCT LP PUNCT
+605, breathes 
+606, breathes he s in the management laughs 
+607, mor pro sub he cop be S prep in det art the n management 
+608, gra SU J ROOT JCT DET PO J PUNCT
+609, breathes I m like 
+610, mor pro sub I cop be S prep like 
+611, gra SU J ROOT JCT PUNCT
+612, laughs 
+613, breathes he didn t come from a long line of salesmen did he 
+614, mor pro sub he mod do P ST neg not v come prep from det art a adj long
+615, n line prep of n salesman PL mod do P ST pro sub he 
+616, gra SU J UX NEG ROOT JCT DET MOD PO J
+617, NJCT SU J UX PO J PUNCT
+618, laughs 
+619, so I m not so convinced that he d he rather would sell than he
+620, wouldn t play but laughs 
+621, mor conj so pro sub I aux be S neg not adv so part convince P STP
+622, pro rel that pro sub he mod genmod pro sub he adv rather
+623, mod will COND v sell prep than pro sub he mod will COND neg not
+624, n play conj but 
+625, gra LINK SU J UX NEG JCT XJCT LINK
+626, SU J UX SU J JCT UX COMP
+627, JCT SU J UX NEG PO J ROOT
+628, PUNCT
+629, well he there you go he ll he ll organize he ll be in the the
+630, union and whatever and manage everybody 
+631, mor co well pro sub he cm cm adv there pro per you v go cm cm
+632, pro sub he mod will pro sub he mod will v organize
+633, pro sub he mod will cop be prep in det art the det art the n union
+634, coord and pro int whatever cm cm coord and v manage
+635, pro indef everybody 
+636, gra COM SU J LP JCT SU J ROOT LP SU J
+637, UX SU J UX COMP SU J UX
+638, COMP JCT DET DET PO J CONJ
+639, COORD LP CONJ COORD O J PUNCT
+640, oh yeah so laughs 
+641, mor co oh co yeah cm cm adv so 
+642, gra COM INCROOT LP ENUM PUNCT
+643, so he ll get all the neighbor kids there to play and he ll sell
+644, tickets yeah 
+645, mor adv so pro sub he mod will v get qn all det art the n neighbor
+646, v kid S adv there inf to n play cm cm coord and pro sub he mod will
+647, v sell n ticket PL cm cm co yeah 
+648, gra JCT SU J UX ROOT QU NT DET SU J
+649, COMP JCT INF XJCT LP LINK SU J
+650, UX ENUM O J LP ENUM PUNCT
+651, that s exactly what he s he already has one time he filled up 
+652, mor pro dem that cop be S adv exact dadj LY pro int what
+653, pro sub he aux be S cm cm pro sub he adv already aux have S cm cm
+654, det num one n time pro sub he v fill P ST adv up 
+655, gra SU J ROOT JCT LINK SU J UX LP
+656, SU J JCT UX LP QU NT PO J
+657, SU J CMOD JCT PUNCT
+658, his wagon I can t tell you the junk that he had and he went
+659, through the neighborhood came back with four fifty 
+660, mor det poss his n wagon cm cm pro sub I mod can neg not v tell
+661, pro per you det art the n junk pro rel that pro sub he v have P ST
+662, cm cm coord and pro sub he v go P ST prep through det art the
+663, n neighborhood cm cm v come P ST adv back prep with det num four
+664, det num fifty 
+665, gra MOD SU J LP SU J UX NEG ENUM O J 
+666, DET O J LINK SU J CMOD LP
+667, LINK SU J CJCT JCT DET PO J
+668, LP ROOT JCT JCT QU NT PO J
+669, PUNCT
+670, breathes 
+671, I m like uh Carl laughs xxx 
+672, mor pro sub I cop be S prep like cm cm n prop Carl cm cm 
+673, gra SU J ROOT JCT LP ENUM LP PUNCT
+674, you got to and how old is he 
+675, mor pro per you v get P ST inf to cm cm coord and adv int how adj old
+676, aux be S pro sub he 
+677, gra SU J ROOT O J LP CONJ LINK SU J UX
+678, COORD PUNCT
+679, he s six 
+680, mor pro sub he cop be S det num six 
+681, gra SU J ROOT PRED PUNCT
+682, gasp echo 
+683, this is the summer so he was still five laughs 
+684, mor pro dem this cop be S det art the n summer conj so pro sub he
+685, cop be P ST S adv still det num five 
+686, gra SU J ROOT DET PRED LINK SU J CJCT
+687, JCT PRED PUNCT
+688, End
+689,
