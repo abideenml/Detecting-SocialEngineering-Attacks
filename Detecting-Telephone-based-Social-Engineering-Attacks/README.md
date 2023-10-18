@@ -19,7 +19,7 @@ Each scam type is identified by a set of speech acts that are collectively refer
 for that attack. A scam signature uniquely identifies a class of social engineering attacks in the same way that a malware signature uniquely identifies a class of malware. I will use a social engineering detection approach called the **Anti-Social Engineering Tool (ASsET)**, which detects attacks based on the semantic content of the conversation.
 
 <p align="center">
-<img src="data/readme_pics/scam-signature.PNG" width="700"/>
+<img src="data/readme_pics/scam-signature.png" width="700"/>
 </p>
 
 ## Understanding Vectorization
@@ -39,14 +39,14 @@ Distributed Memory is a variant of the Doc2Vec model, which is an extension of t
 The projection layer is responsible for creating the word vectors and document vectors. For each word in the input sequence, a unique word vector is created, and for each document, a unique document vector is created. These vectors are learned through the training process by optimizing a loss function that minimizes the difference between the predicted word and the actual target word. The output neural network takes the distributed representation of the context and predicts the target word.
 
 <p align="center">
-<img src="data/readme_pics/DM.PNG" width="400"/>
+<img src="data/readme_pics/DM.png" width="400"/>
 </p>
 
 
 ➡️ Distributed Bag of Words (DBOW): DBOW is a simpler version of the Doc2Vec algorithm that focuses on understanding how words are distributed in a text, rather than their meaning. This architecture is preferred when the goal is to analyze the structure of the text, rather than its content. In the DBOW architecture, a unique vector representation is assigned to each document in the corpus, but there are no separate word vectors.  Instead, the algorithm takes in a document and learns to predict the probability of each word in the document given only the document vector. The model does not take into account the order of the words in the document, treating the document as a collection or “bag ” of words. This makes the DBOW architecture faster to train than DM, but potentially less powerful in capturing the meaning of the documents.
 
 <p align="center">
-<img src="data/readme_pics/DBOW.PNG" width="400"/>
+<img src="data/readme_pics/DBOW.png" width="400"/>
 </p>
 
 **Universal Sentence Encoder**
@@ -56,7 +56,7 @@ The Universal Sentence Encoder encodes text into high-dimensional vectors that c
 The model is trained and optimized for greater-than-word length text, such as sentences, phrases or short paragraphs. It is trained on a variety of data sources and a variety of tasks with the aim of dynamically accommodating a wide variety of natural language understanding tasks. The input is variable length English text and the output is a 512 dimensional vector. The universal-sentence-encoder model is trained with a **Deep Averaging Network (DAN)** encoder.
 
 <p align="center">
-<img src="data/readme_pics/DAN.PNG" width="400"/>
+<img src="data/readme_pics/DAN.png" width="400"/>
 </p>
 
 
@@ -97,7 +97,7 @@ Similarly can you parse this one in `O(1)`?
 Noup? So I thought, here it is visualized:
 
 <p align="center">
-<img src="data/readme_pics/custom_learning_rate_schedule.PNG"/>
+<img src="data/readme_pics/custom_learning_rate_schedule.png"/>
 </p>
 
 It's super easy to understand now. Now whether this part was crucial for the success of transformer? I doubt it.
