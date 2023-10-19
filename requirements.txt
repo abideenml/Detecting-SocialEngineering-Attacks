@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+xgboost
+catboost
+gensim
+tqdm
+nltk
