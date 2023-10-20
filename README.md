@@ -110,8 +110,8 @@ In this project I have used various classification models like Logistic regressi
 So we talked about what telephone based social engineering attacks are, and what they can do for you (among other things). <br/>
 Let's get this thing running! Follow the next steps:
 
-1. `git clone https://github.com/abideenml/ResearchProjects`
-2. Navigate into project directory `cd path_to_repo` and then move to  `Detecting-Telephone-based-Social-Engineering-Attacks` folder.
+1. `git clone https://github.com/abideenml/Detecting-SocialEngineering-Attacks`
+2. Navigate into project directory `cd path_to_repo`
 3. Create a new venv environment and run `pip install -r requirements.txt`
 4. Run the `DocToVec_KMeans_+_EM_CLustering_Classifications_+_DBSCAN.ipynb` and `Universal_Vector_Encoding_KMeans_+_EM_+_DBSCAN_Clustering_Classifications.ipynb` file.
 
